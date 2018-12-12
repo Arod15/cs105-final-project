@@ -1,0 +1,468 @@
+raceethnicity,city,region,lawenforcementagency,cause,armed
+Hispanic/Latino,Anchorage,West,Anchorage Police Department,Gunshot,yes
+Native American,Anchorage,West,Anchorage Corrections Department,Death in custody,yes
+Black,Birmingham,Southeast,Homewood Police Department,Gunshot,yes
+White,Dadeville,Southeast,Tallapoosa County Sheriff s Department,Gunshot,yes
+White,Bay Minette,Southeast,Baldwin County Sheriff s Office,Gunshot,yes
+Black,Huntsville,Southeast,Huntsville Police Department,Gunshot,yes
+Black,Millbrook,Southeast,Millbrook Police Department,Gunshot,No
+Black,Birmingham,Southeast,Birmingham Police Department,Gunshot,No
+White,Hoover,Southeast,Hoover Police Department,Gunshot,No
+White,Moulton,Southeast,Lawrence County Sheriff s Office,Gunshot,yes
+Black,Strong,Southeast,Union County Sheriff s Office,Gunshot,yes
+Unknown,England,Southeast,England Police Department,Gunshot,yes
+White,Cabot,Southeast,Lonoke County Sheriff s Office and Arkansas Department of Community Correction,Gunshot,yes
+White,Jonesboro,Southeast,Jonesboro Police Department,Gunshot,No
+Hispanic/Latino,Phoenix,Southwest,Tempe  Chandler and Mesa Police Departments [US Marshals Service Task Force],Gunshot,yes
+Native American,Lukachukai,Southwest,Navajo Police Department,Gunshot,yes
+Unknown,Tuscon ,Southwest,Tucson Police Department,Gunshot,yes
+White,Morenci,Southwest,Clifton Police Department and Greenlee County Sheriff s Office,Gunshot,yes
+White,Cottonwood,Southwest,Cottonwood Police Department,Gunshot,yes
+White,Eagar,Southwest,Eagar Police Department and Apache County Sheriff s Office,Gunshot,yes
+White,Phoenix,Southwest,Phoenix Police Department,Gunshot,yes
+White,Maricopa,Southwest,Maricopa Police Department,Gunshot,yes
+White,Glendale,Southwest,Glendale Police Department,Gunshot,yes
+White,Tempe,Southwest,Tempe Police Department,Gunshot,yes
+White,Kingman,Southwest,Kingman Police Department,Gunshot,yes
+Black,Scottsdale,Southwest,Scottsdale Police Department,Gunshot,yes
+Hispanic/Latino,Bisbee,Southwest,Bisbee Police Department,Gunshot,yes
+Hispanic/Latino,Mesa,Southwest,Mesa Police Department,Gunshot,yes
+White,Marana,Southwest,Marana Police Department,Gunshot,yes
+Hispanic/Latino,San Manuel,Southwest,Pinal County Sheriff s Office,Gunshot,No
+Hispanic/Latino,Chandler,Southwest,Chandler Police Department,Gunshot,No
+Native American,Phoenix,Southwest,Phoenix Police Department,Gunshot,No
+Unknown,Cottonwood,Southwest,Yavapai County SheriffÍ__Í__‘ïÍ©s Office,Gunshot,No
+White,Phoenix,Southwest,Phoenix Police Department,Gunshot,No
+White,Phoenix,Southwest,Phoenix Police Department,Gunshot,No
+White,Kearny,Southwest,Pinal County Sheriff s Office,Gunshot,No
+White,La Paz County,Southwest,Riverside County Sheriff s Department,Gunshot,No
+White,Peoria ,Southwest,Glendale Police Department,Gunshot,yes
+Hispanic/Latino,Phoenix,Southwest,Tempe  Chandler and Mesa Police Departments [US Marshals Service Task Force],Gunshot,yes
+Hispanic/Latino,Fairfield,West,Fairfield Police Department,Gunshot,Disputed
+Asian/Pacific Islander,Stockton,West,Stockton Police Department,Gunshot,yes
+Black,Los Angeles,West,Los Angeles Police Department,Gunshot,yes
+Black,Antioch,West,Contra Costa Sheriff s Office,Gunshot,yes
+Black,Anaheim,West,Anaheim Police Department,Gunshot,yes
+Black,Cerritos,West,Los Angeles County Sheriff s Department,Gunshot,yes
+Black,San Jose,West,San Jose Police Department,Gunshot,yes
+Black,Oakland,West,Emeryville Police Department,Gunshot,yes
+Black,Los Angeles,West,Los Angeles County Sheriff s Department,Taser,yes
+Hispanic/Latino,South Gate,West,South Gate Police Department,Gunshot,yes
+Hispanic/Latino,Bakersfield,West,Bakersfield Police Department,Gunshot,yes
+Hispanic/Latino,Los Angeles,West,Los Angeles County Sheriff s Department,Gunshot,yes
+Hispanic/Latino,Wasco,West,Kern County Sheriff s Office,Gunshot,yes
+Hispanic/Latino,Ontario,West,Ontario Police Department,Gunshot,yes
+Hispanic/Latino,Hemet,West,Riverside County Sheriff s Department and California Highway Patrol,Gunshot,yes
+Hispanic/Latino,Napa,West,Napa Police Department,Gunshot,yes
+Hispanic/Latino,Delano,West,California Department of Corrections and Rehabilitation,Gunshot,yes
+Hispanic/Latino,Los Angeles,West,Los Angeles Police Department,Gunshot,yes
+Hispanic/Latino,Shafter,West,Shafter Police Department,Gunshot,yes
+Hispanic/Latino,Burbank,West,Los Angeles Police Department,Gunshot,yes
+Hispanic/Latino,Los Angeles,West,Los Angeles County Sheriff s Department,Gunshot,yes
+Unknown,South Gate,West,South Gate Police Department,Gunshot,yes
+Unknown,Long Beach,West,Long Beach Police Department,Gunshot,yes
+Unknown,Tehachapi,West,Tehachapi Police Department,Gunshot,yes
+Unknown,Fremont,West,Fremont Police Department,Gunshot,yes
+Unknown,Lake Isabella,West,Kern County Sheriff s Office,Taser,yes
+White,San Francisco,West,San Francisco Police Department,Gunshot,yes
+White,Fontana,West,Fontana Police Department,Gunshot,yes
+White,Sylmar,West,Los Angeles Police Department,Gunshot,yes
+White,Garden Grove,West,Fountain Valley Police Department,Gunshot,yes
+White,Apple Valley,West,San Bernardino County Sheriff s Department,Gunshot,yes
+White,San Diego,West,San Diego Police Department,Gunshot,yes
+White,Bakersfield,West,Bakersfield Police Department,Gunshot,yes
+White,Calimesa,West,Riverside County Sheriff s Department,Gunshot,yes
+White,San Bernadino,West,San Bernardino Police Department,Gunshot,yes
+White,Sunnyvale,West,Sunnyvale Police Department,Gunshot,yes
+White,Sacramento,West,Sacramento Police Department,Gunshot,yes
+White,Vallejo,West,Vallejo Police Department,Gunshot,yes
+White,Bakersfield,West,Bakersfield Police Department (Swat),Gunshot,yes
+White,San Jose,West,San Jose Police Department,Gunshot,yes
+White,Alpine,West,San Diego County Sheriff s Department,Gunshot,yes
+White,Hemet,West,Riverside County Sheriff s Department,Gunshot,yes
+White,Los Angeles,West,Los Angeles Police Department,Struck by vehicle,yes
+White,Marysville,West,Yuba County Sheriff s Office,Taser,yes
+Asian/Pacific Islander,Stockton,West,Stockton Police Department and San Joaquin County Sheriff s Office,Gunshot,yes
+Asian/Pacific Islander,South El Monte,West,Los Angeles County Sheriff s Department,Gunshot,yes
+Black,Modesto,West,Ceres Police Department,Gunshot,yes
+Black,Anaheim,West,Anaheim Police Department,Gunshot,yes
+Hispanic/Latino,Corning,West,Tehama County Sheriff s Department,Gunshot,yes
+Hispanic/Latino,Santa Ana,West,Santa Ana Police Department,Gunshot,yes
+Hispanic/Latino,Pomona,West,San Bernardino County Sheriff s Office,Gunshot,yes
+Hispanic/Latino,Elk Grove,West,California Department of Fish and Wildlife,Gunshot,yes
+Hispanic/Latino,Rio Linda,West,California Highway Patrol,Gunshot,yes
+Hispanic/Latino,Pomona,West,Los Angeles Police Department,Gunshot,yes
+White,Highland,West,Highland Police Department,Death in custody,yes
+White,Hanford,West,Kings County Sheriff s Office,Gunshot,yes
+Black,San Francisco,West,San Francisco Sheriff s Department,Death in custody,No
+Black,Oxnard,West,Oxnard Police Department,Gunshot,No
+Black,Hawthorne,West,Hawthorne Police Department,Gunshot,No
+Hispanic/Latino,Santa Ana,West,Santa Ana Police Department,Gunshot,No
+Hispanic/Latino,Long Beach,West,Long Beach Police Department,Gunshot,No
+Hispanic/Latino,Los Angeles,West,Los Angeles Police Department,Gunshot,No
+Hispanic/Latino,Los Angeles,West,Los Angeles Police Department,Gunshot,No
+White,Rancho Santa Margarita,West,Orange County Sheriff s Department,Gunshot,No
+White,Encinitas,West,San Diego County Sheriff s Department,Gunshot,No
+White,Chino,West,Corona Police Department,Gunshot,No
+Hispanic/Latino,Wilmington,West,Los Angeles Police Department,Gunshot,yes
+Black,Santa Clara,West,Santa Clara Police Department,Gunshot,yes
+White,San Francisco,West,San Francisco Police Department,Gunshot,yes
+White,Stockton,West,Stockton Police Department,Gunshot,yes
+Black,Los Angeles,West,Los Angeles Police Department,Gunshot,yes
+Hispanic/Latino,San Francisco,West,San Francisco Police Department,Gunshot,yes
+White,San Diego,West,San Diego Police Department,Gunshot,yes
+White,Sebastopol,West,Sonoma County Sheriff s Office,Gunshot,yes
+Asian/Pacific Islander,Boulder,West,Boulder County Sheriff s Office,Gunshot,yes
+Black,Northglenn,West,Northglenn Police Department,Gunshot,yes
+Black,Trinidad,West,Trinidad Police Department,Gunshot,yes
+Hispanic/Latino,Denver,West,Denver Police Department,Gunshot,yes
+Hispanic/Latino,Evans,West,Evans Police Department,Gunshot,yes
+Hispanic/Latino,Pueblo,West,Pueblo Police Department,Gunshot,yes
+White,Grand Junction,West,Grand Junction Police Department,Gunshot,yes
+White,CaÍ__‘ï‘±on City,West,CaÍ__‘ï‘±on City Police Department,Gunshot,yes
+White,Glenwood Springs,West,Garfield County Sheriff s Office,Gunshot,yes
+Black,Aurora,West,Aurora Police Department,Gunshot,No
+White,Craig,West,Moffat County Sheriff s Office and Colorado Parks and Wildlife Law Enforcement,Gunshot,No
+Black,Aurora,West,Aurora Police Department,Gunshot,yes
+White,Branford,Northeast,Branford Police Department,Taser,yes
+Black,Washington,Southeast,Washington DC Metro Transit Police,Gunshot,yes
+White,Smyrna,Southeast,Smyrna Police Department,Gunshot,yes
+White,Claymount,Southeast,Delaware State Police,Gunshot,yes
+Black,Putnam Hall,Southeast,Putnam County Sheriff s Office,Gunshot,yes
+Black,Jacksonville,Southeast,Jacksonville Police Department,Gunshot,yes
+Black,Fort Pierce,Southeast,Saint Lucie County Sheriff s Office,Gunshot,yes
+Black,Jacksonville,Southeast,Jacksonville Sheriff s Office,Gunshot,yes
+Black,Miami Gardens,Southeast,Miami Gardens Police Department,Gunshot,yes
+Black,Coconut Creek,Southeast,Coconut Creek Police Department,Taser,yes
+Black,Fort Lauderdale,Southeast,Broward Sheriff s Office,Unknown,yes
+Hispanic/Latino,Lakeland,Southeast,Lakeland Police Department,Gunshot,yes
+Hispanic/Latino,Orlando,Southeast,Orlando Police Department,Gunshot,yes
+White,St Petersburg,Southeast,St Petersburg Police Department,Gunshot,yes
+White,St Augustine,Southeast,St Johns County Sheriff s Office,Gunshot,yes
+White,Clermont,Southeast,Lake County Sheriff s Office,Gunshot,yes
+White,Tallahassee,Southeast,Tallahassee Police Department,Gunshot,yes
+White,Navarre,Southeast,Santa Rosa County Sheriff s Office,Gunshot,yes
+White,Orlando,Southeast,Orange County Sheriff s Office,Gunshot,yes
+White,St Augustine,Southeast,St Johns County Sheriff s Office,Gunshot,yes
+Black,Cocoa,Southeast,Brevard County Sheriff s Office,Gunshot,yes
+Black,Miami,Southeast,Miami-Dade Police Department,Gunshot,yes
+Hispanic/Latino,Key Largo,Southeast,Monroe County Sheriff s Office,Unknown,yes
+White,Palm Bay,Southeast,Palm Bay Police Department,Gunshot,yes
+White,Panama City,Southeast,Panama City Police Department,Gunshot,yes
+Black,Lauderhill,Southeast,Lauderhill Police Department,Gunshot,No
+White,Ocala,Southeast,Ocala Police Department,Gunshot,No
+White,Tampa Bay,Southeast,Tampa Bay Police Department [US Marshals Service Task Force],Gunshot,No
+White,Port St Joe,Southeast,Port St Joe Police Department,Gunshot,No
+White,Sarasota,Southeast,Sarasota Police Department,Unknown,yes
+Black,Fort Lauderdale,Southeast,Fort Lauderdale Police Department,Gunshot,Unknown
+White,Deltona,Southeast,Volusia County Sheriff s Office,Gunshot,Unknown
+Black,Tallahassee,Southeast,Tallahassee Police Department,Gunshot,yes
+Black,Carrollton,Southeast,Carrolton Police Department,Gunshot,yes
+Hispanic/Latino,Clarkesville,Southeast,Habersham County Sheriff s Office,Gunshot,yes
+Unknown,Lawrenceville,Southeast,Gwinnett County Sheriff s Department,Gunshot,yes
+White,Douglas,Southeast,Douglas Police Department,Gunshot,yes
+White,Port Wentworth,Southeast,Port Wentworth Police Department,Gunshot,yes
+White,Conyers,Southeast,Rockdale County Sheriff s office,Gunshot,yes
+Black,Valdosta,Southeast,Lowndes County Sheriff s Office,Gunshot,yes
+Black,Atlanta,Southeast,Smyrna Police Department,Gunshot,yes
+Black,Rome,Southeast,Floyd County Sheriff s Office,Taser,yes
+White,Moultrie,Southeast,Worth County Sheriff s Office,Gunshot,yes
+Black,Chamblee,Southeast,DeKalb County Sheriff s Department,Gunshot,No
+Black,Atlanta,Southeast,Atlanta Police Department,Struck by vehicle,No
+White,Eatonton,Southeast,Putnam County Sheriff s Department,Gunshot,No
+White,Powder Springs,Southeast,Cobb County Sheriff s Office,Gunshot,No
+Black,Savannah,Southeast,Chatham County Sheriff s Office,Death in custody,yes
+Black,Atlanta,Southeast,Atlanta Police Department,Gunshot,yes
+White,Waikoloa Village,West,Hawaii Police Department,Struck by vehicle,yes
+White,Kaumakani,West,Kauai Police Department,Struck by vehicle,yes
+Asian/Pacific Islander,Honolulu,West,US Marshals Service,Gunshot,No
+Asian/Pacific Islander,Honolulu,West,Honolulu Police Department,Taser,No
+White,Burlington,Midwest,Burlington Police Department,Gunshot,yes
+White,Des Moines,Midwest,Des Moines Police Department,Gunshot,yes
+White,Middleton,West,Canyon County Sheriff s Office,Gunshot,yes
+White,Boise,West,Boise Police Department,Gunshot,yes
+White,Rigby,West,Jefferson County Sheriff Department,Gunshot,No
+White,Rexburg,West,Rexburg Police Department,Gunshot,yes
+Black,Zion,Midwest,Zion Police Department,Gunshot,yes
+Black,Joliet,Midwest,Joliet Police Department,Gunshot,yes
+White,Rosemont,Midwest,Rosemont Police Department,Gunshot,yes
+White,Marion,Midwest,Marion Police Department  Illinois State Police and Williamson County Sheriff s Department,Gunshot,yes
+White,Rockford,Midwest,Rockford Police Department,Gunshot,yes
+White,Arcola,Midwest,Tuscola Police Department,Gunshot,yes
+Black,Rock Island,Midwest,Rock Island Police Department,Gunshot,No
+Black,Chicago,Midwest,Chicago Police Department,Gunshot,No
+Black,Harvey,Midwest,Harvey Police Department,Gunshot,No
+Hispanic/Latino,Alton,Midwest,Alton Police Department,Gunshot,No
+White,Metropolis,Midwest,Metropolis Police Department,Gunshot,yes
+Black,Monon,Midwest,Indiana State Police  Tippecanoe County Sheriff s Department,Gunshot,yes
+White,Terre Haute ,Midwest,Terre Haute Police Department ,Gunshot,yes
+White,Indianapolis,Midwest,Indianapolis Metropolitan Police Department,Gunshot,yes
+White,Crown Point,Midwest,Lake County Sheriff s Department,Taser,yes
+White,Harmony,Midwest,Clay County Sheriff s Department,Gunshot,No
+White,Indianapolis,Midwest,Indianapolis Metropolitan Police Department,Gunshot,yes
+Black,Indianapolis,Midwest,Indianapolis Metropolitan Police Department,Gunshot,yes
+Black,Indianapolis,Midwest,Indianapolis Metropolitan Police Department,Gunshot,yes
+White,Gardner,Midwest,Gardner Police Department,Gunshot,yes
+White,Topeka,Midwest,Topeka Police Department,Gunshot,yes
+White,Kansas City,Midwest,Kansas City KS Police Department,Taser,yes
+Hispanic/Latino,Wichita,Midwest,Wichita Police Department,Gunshot,yes
+White,Assaria,Midwest,Saline County Sheriff s Office,Gunshot,yes
+Hispanic/Latino,Kansas City,Midwest,Kansas City KS Police Department and Kansas Highway Patrol,Gunshot,yes
+Black,Owensboro,Southeast,Owensboro Police Department and Kentucky State Police,Gunshot,yes
+White,Williamsburg,Southeast,Whitley County Sheriff s Department and Kentucky State Police,Death in custody,yes
+White,Gunlock,Southeast,Magoffin County Sheriff s Office and Kentucky State Police,Gunshot,yes
+Black,Elizabethtown,Southeast,Elizabethtown Police Department,Gunshot,yes
+White,Chavies,Southeast,Kentucky State Police,Gunshot,No
+White,Stanford,Southeast,Stanford Police Department,Struck by vehicle,No
+White,Wilmore,Southeast,Wilmore Police Department,Gunshot,yes
+Black,Kenner,Southeast,Jefferson Parish Sheriff s Office,Gunshot,Disputed
+Black,Harvey,Southeast,Jefferson Parish Sheriff s Office,Gunshot,yes
+Black,Harvey,Southeast,Jefferson Parish Sheriff s Office,Gunshot,yes
+Black,New Orleans,Southeast,New Orleans Police Department,Gunshot,yes
+White,Bossier City,Southeast,FBI,Gunshot,yes
+White,Denham Springs,Southeast,Denham Springs Police Department,Gunshot,yes
+White,Tallulah,Southeast,Louisiana State Troopers,Struck by vehicle,yes
+White,Ville Platte,Southeast,Evangeline Parish Sheriff s Office,Gunshot,yes
+White,Pineville,Southeast,Rapides Parish Sheriff s Office,Gunshot,No
+Black,New Orleans,Southeast,New Orleans Police Department,Gunshot,yes
+Black,Baton Rouge,Southeast,US Marshals Service,Gunshot,yes
+Black,Roxbury,Northeast,Boston Police Department,Gunshot,yes
+White,Weymouth,Northeast,Weymouth Police Department,Gunshot,yes
+White,Tewksbury,Northeast,Tewksbury Police Department,Gunshot,No
+White,Webster,Northeast,Webster Police Department,Gunshot,No
+White,Chatham,Northeast,Chatham Police Department,Struck by vehicle,Unknown
+Black,Baltimore,Southeast,Baltimore Police Department,Death in custody,yes
+Black,Baltimore,Southeast,Baltimore Police Department,Gunshot,yes
+Black,Randallstown,Southeast,Baltimore County Police Department,Gunshot,yes
+Black,Salisbury,Southeast,Maryland State Police,Gunshot,yes
+Black,Landover,Southeast,Prince George s County Sheriff s Office,Gunshot,yes
+Black,Fort Meade,Southeast,NSA Police Department,Gunshot,yes
+Black,Silver Spring,Southeast,Montgomery County Police Department,Taser,yes
+Black,Hagerstown,Southeast,Hagerstown Police Department,Taser,yes
+White,Essex,Southeast,Baltimore County Police Department,Gunshot,yes
+Black,Elkton,Southeast,Cecil County Sheriff s Office,Gunshot,yes
+White,Smyrna,Northeast,Maine State Troopers and Aroostook County Sheriff s Department,Gunshot,yes
+Black,Detroit,Midwest,Immigration and Customs Enforcement,Gunshot,yes
+White,Portage,Midwest,Michigan State Police  Kalamazoo County Sheriff s Office and Portage Police Department,Gunshot,yes
+White,Rockwood,Midwest,Gibraltar Police Department,Taser,yes
+White,Bay City,Midwest,Bay City Police Department,Gunshot,yes
+Black,Detroit,Midwest,Detroit Police Department,Gunshot,No
+White,Trenton,Midwest,Trenton Police Department,Gunshot,No
+White,Roxand Township,Midwest,Eaton County Sheriff s Office,Gunshot,yes
+White,Wyoming,Midwest,Kentwood Police Department and Wyoming DPS,Gunshot,yes
+White,Eaton Rapids Township,Midwest,Eaton County Sheriff s Office,Gunshot,yes
+Asian/Pacific Islander,Minneapolis,Midwest,Brooklyn Center Police Department,Taser,yes
+White,St Paul,Midwest,St Paul Police Department,Gunshot,yes
+White,Bloomington,Midwest,Bloomington Police Department,Gunshot,yes
+Black,Fridley,Midwest,Lino Lakes Police Department,Gunshot,No
+White,Minneapolis,Midwest,Minneapolis Police Department,Gunshot,yes
+Black,St Paul,Midwest,St Paul Police Department,Gunshot,yes
+Black,Columbia,Midwest,Boone County Sheriff s Department,Gunshot,yes
+Black,St Louis,Midwest,St Louis Metropolitan Police Department,Gunshot,yes
+Black,St Louis,Midwest,Wellston Police Department,Gunshot,yes
+White,Green Ridge,Midwest,Pettis County Sheriff s Office,Gunshot,yes
+Black,Jennings,Midwest,St Louis County Police Department,Gunshot,yes
+Black,St Louis,Midwest,St Louis Metropolitan Police Department,Gunshot,No
+White,Kansas City,Midwest,US Marshals Service,Gunshot,No
+White,Robertsville,Midwest,St Louis County Police Department,Gunshot,No
+White,Springfield,Midwest,Springfield Police Department,Gunshot,No
+White,Columbia,Midwest,Columbia Police Department and University of Missouri Police,Gunshot,yes
+White,Lucedale,Southeast,George County Sheriff s Department,Gunshot,yes
+White,Robinsonville,Southeast,Mississippi Gaming Commission,Gunshot,yes
+White,Ruth,Southeast,Pike County Sheriff s Office,Gunshot,yes
+White,Iuka,Southeast,Iuka Police Department,Gunshot,No
+White,Meridian,Southeast,Lauderdale County Sheriff s Office,Taser,No
+White,Gulfport,Southeast,Gulfport Police Department,Gunshot,yes
+White,Billings,West,Billings Police Department,Gunshot,yes
+White,Huntley,West,Yellowstone County Sheriff s Office,Gunshot,yes
+Black,Gastonia,Southeast,Gastonia Police Department,Gunshot,yes
+Black,Charlotte,Southeast,Charlotte-Mecklenburg Police Department,Gunshot,yes
+White,Gastonia,Southeast,Gastonia Police Department,Gunshot,yes
+White,Penrose,Southeast,North Carolina Alcohol Law Enforcement  Transylvania County Sheriff s Office  Homeland Security,Gunshot,yes
+White,Gaston,Southeast,Gaston County Police Department,Gunshot,yes
+White,Enfield,Southeast,Enfield Police Department,Taser,yes
+White,Dublin,Southeast,Bladen County Sheriff s Office and Bladenboro Police Department,Gunshot,yes
+White,Salemburg,Southeast,Sampson County Sheriff s Office,Gunshot,yes
+Black,Tarboro,Southeast,Tarboro Police Department and Edgecombe Sheriff s Office,Gunshot,No
+White,Wake Forest,Southeast,Wake Forest Police Department,Gunshot,No
+White,Sidney,Midwest,Sidney Police Department,Gunshot,yes
+White,Omaha,Midwest,Omaha Police Department,Gunshot,yes
+White,Omaha,Midwest,Omaha Police Department,Gunshot,yes
+Black,Norfolk,Midwest,Norfolk Police Division,Death in custody,No
+Black,Omaha,Midwest,Omaha Police Department,Gunshot,No
+White,Lincoln,Midwest,US Marshals Service,Gunshot,Unknown
+White,Derry,Northeast,Derry Police Department,Gunshot,yes
+Black,Vineland,Northeast,Vineland Police Department,Death in custody,yes
+Black,Lyndhurst,Northeast,Lyndhurst Police Department,Gunshot,yes
+Black,Ridgefield Park,Northeast,New Jersey State Police,Struck by vehicle,yes
+White,Hamilton Township,Northeast,Hamilton Police Department,Gunshot,yes
+Black,Union,Northeast,New Jersey State Police,Gunshot,yes
+Hispanic/Latino,Hackensack,Northeast,Hackensack Police Department,Gunshot,yes
+White,Old Bridge Township,Northeast,Old Bridge Police Department,Gunshot,yes
+Asian/Pacific Islander,Hackensack,Northeast,Bergen County Prosecutor s Department,Struck by vehicle,No
+Black,Ridgefield Park,Northeast,New Jersey State Police,Struck by vehicle,No
+Unknown,Middletown,Northeast,Monmouth County Emergency Response Team,Gunshot,yes
+Unknown,Berlin,Northeast,Winslow Police Department,Gunshot,yes
+White,Albuquerque,Southeast,Bernalillo County Sheriff s Department,Gunshot,yes
+White,Albuquerque,Southeast,Albuquerque Police Department,Gunshot,yes
+White,Ruidoso,Southeast,Ruidoso Police Department,Gunshot,yes
+White,Rudioso,Southeast,New Mexico State Police and US Marshals Service,Gunshot,No
+White,Edgewood,Southeast,New Mexico State Police,Gunshot,yes
+White,Las Vegas,West,Las Vegas Metro Police (Swat),Gunshot,yes
+Hispanic/Latino,Las Vegas,West,North Las Vegas Police Department,Gunshot,No
+White,Boulder City,West,Boulder City Police Department,Gunshot,No
+Black,Fallsburg,Northeast,New York Department of Corrections and Community Supervision,Death in custody,yes
+Black,Bay Shore,Northeast,Suffolk County Police Department,Gunshot,yes
+Black,Albany,Northeast,City of Albany Police Department,Taser,yes
+Black,Rochester,Northeast,Rochester Police Department,Taser,yes
+Hispanic/Latino,New York,Northeast,New York Police Department,Death in custody,yes
+White,Clarendon,Northeast,Orleans County Sheriff s Office,Gunshot,yes
+White,Beacon,Northeast,Beacon Police Department,Gunshot,yes
+White,Rochester,Northeast,New York State Police  Monroe County Sheriff s Department and Gates Police Department,Gunshot,yes
+White,New City,Northeast,Clarkstown Police Department,Gunshot,yes
+White,Catskill,Northeast,New York State Troopers,Struck by vehicle,yes
+Black,New York,Northeast,New York Police Department,Gunshot,yes
+Black,New York,Northeast,New York Police Department,Gunshot,No
+White,Constantania,Northeast,Oswego County Sheriff s Department,Gunshot,No
+White,New York,Northeast,New York Police Department,Gunshot,No
+Black,Cleveland,Midwest,Cleveland Division of Police,Gunshot,yes
+Black,Columbus,Midwest,Columbus Police Department,Gunshot,yes
+Black,Mansfield,Midwest,Mansfield Police Department,Taser,yes
+White,Mansfield,Midwest,Mansfield Police Department,Gunshot,yes
+White,Green,Midwest,Summit County Sheriff s Office,Gunshot,yes
+Black,Columbus,Midwest,Columbus Police Department  Ohio State Highway Patrol,Gunshot,No
+Black,Cleveland,Midwest,Cleveland Division of Police,Gunshot,No
+White,Munroe Falls,Midwest,Kent Police Department,Gunshot,No
+White,Columbus,Midwest,Columbus Division of Police,Gunshot,Unknown
+White,Peebles,Midwest,Pike County Sheriff s Department,Gunshot,yes
+Black,Tulsa,Southwest,Tulsa County Sheriff s Office,Gunshot,yes
+Black,Tulsa,Southwest,Department of Veteran Affairs,Gunshot,yes
+Black,Muskogee,Southwest,Muskogee Police Department,Gunshot,yes
+Black,Oklahoma City,Southwest,Oklahoma City Police Department,Taser,yes
+Black,Tulsa,Southwest,Osage Nation Police Department,Taser,yes
+White,Chickasha,Southwest,Grady County Sheriff s Department and Chickasha Police Department,Gunshot,yes
+White,Bunch,Southwest,Oklahoma Department of Wildlife Conservation,Gunshot,yes
+White,Rufe,Southwest,Choctaw County Sheriff s Office and Hugo Police Department,Gunshot,yes
+White,Stillwater,Southwest,Stillwater Police Department,Gunshot,yes
+White,Wapanucka,Southwest,Oklahoma Highway Patrol and Tupelo Police Department,Gunshot,yes
+White,Muskogee County,Southwest,Warner Police Department,Taser,yes
+Black,Oklahoma City,Southwest,Oklahoma City Police Department,Gunshot,yes
+White,Shawnee,Southwest,Pottawatomie County Sheriff s Office,Gunshot,yes
+White,Edmond,Southwest,Edmond Police Department,Gunshot,yes
+Black,Oklahoma City,Southwest,Oklahoma City Police Department,Gunshot,No
+White,Miami,Southwest,Oklahoma Highway Patrol,Gunshot,No
+White,Kellyville,Southwest,Creek County Sheriff s Department and Bristow Police Department,Gunshot,No
+White,Mounds,Southwest,Oklahoma Highway Patrol,Gunshot,No
+White,Newalla,Southwest,Oklahoma City Police Department,Gunshot,No
+White,Guthrie,Southwest,Oklahoma State Police,Gunshot,yes
+Hispanic/Latino,Oklahoma City,Southwest,Oklahoma City Police Department,Gunshot,yes
+White,Tulsa,Southwest,Tulsa Police Department,Struck by vehicle,yes
+White,Medford,West,Medford Police Department,Gunshot,yes
+White,Eugene,West,Eugene Police Department,Gunshot,yes
+White,Salemburg,West,Salem Police Department,Gunshot,yes
+White,Grants Pass,West,Oregon State Police,Gunshot,yes
+White,Aloha,West,Washington County Sheriff s Office,Gunshot,No
+Unknown,Medford,West,Medford Police Department,Gunshot,yes
+White,Colton,West,Clackamas County Sheriff s Office,Gunshot,yes
+White,Portland,West,Portland Police Department,Gunshot,yes
+Black,Pittsburgh,Northeast,US Marshals Service  Pennsylvania State Police  Allegheny County Sheriff s Office,Gunshot,yes
+White,Hanover,Northeast,Hummelstown Police Department,Gunshot,yes
+White,Gettysburg,Northeast,Pennsylvania State Police,Gunshot,yes
+White,Reading,Northeast,Pennsylvania State Police,Gunshot,yes
+Black,Lancaster,Northeast,Lancaster Police Department,Gunshot,yes
+White,Allentown,Northeast,Catasauqua Police Department,Gunshot,yes
+White,Somerset,Northeast,Pennsylvania State Police,Gunshot,yes
+Black,Spartanburg,Southeast,Spartanburg Police Department,Gunshot,yes
+Black,Johnsonville,Southeast,Johnsonville Police Department and Florence County Sheriff s Department (Swat),Gunshot,yes
+White,Peltzer,Southeast,Greenville County Sheriff s Office,Gunshot,yes
+Black,North Charleston,Southeast,North Charleston Police Department,Gunshot,yes
+White,Charleston,Southeast,North Charleston Police Department,Gunshot,yes
+Black,Charleston,Southeast,South Carolina State Law Enforcement Division,Gunshot,No
+White,Lancaster,Southeast,Lancaster County Sheriff s Department,Gunshot,No
+White,Columbia,Southeast,Lexington County Sheriff s Office,Gunshot,No
+White,Boiling Springs,Southeast,Spartanburg County Sheriff s Office,Gunshot,yes
+Black,Memphis,Southeast,Shelby County Sheriff s Department [US Marshals Service Task Force],Gunshot,yes
+Hispanic/Latino,Nashville,Southeast,Metro Nashville Police Department,Gunshot,yes
+White,Nashville,Southeast,Nashville Metropolitan Police Department,Gunshot,yes
+White,Memphis,Southeast,Memphis Police Department,Gunshot,yes
+White,Huntingdon,Southeast,Carroll County Sheriff s Office,Gunshot,yes
+Black,Memphis,Southeast,Memphis Police Department,Gunshot,yes
+Black,Dallas,Southwest,Dallas Police Department,Gunshot,yes
+Black,Fort Worth,Southwest,Fort Worth Police Department,Gunshot,yes
+Hispanic/Latino,El Paso,Southwest,El Paso Police Department,Gunshot,yes
+Hispanic/Latino,Fort Worth,Southwest,Fort Worth Police Department,Gunshot,yes
+Hispanic/Latino,El Paso,Southwest,El Paso Police Department,Gunshot,yes
+Hispanic/Latino,Roma,Southwest,US Border Patrol,Gunshot,yes
+Hispanic/Latino,Houston,Southwest,Houston Police Department,Gunshot,yes
+Hispanic/Latino,San Antonio,Southwest,San Antonio Police Department,Gunshot,yes
+Hispanic/Latino,Mission,Southwest,Hidalgo County Sheriff s Office,Gunshot,yes
+White,Sunset,Southwest,Wise County Sheriff s Department and Texas DPS ,Gunshot,yes
+White,Victoria,Southwest,Victoria Police Department,Gunshot,yes
+White,Rosenberg,Southwest,Rosenburg Police Department,Gunshot,yes
+White,Longview,Southwest,Longview Police Department,Gunshot,yes
+White,Jourdanton,Southwest,Jourdanton Police Department,Gunshot,yes
+Black,Freeport,Southwest,Freeport Police Department,Gunshot,yes
+Hispanic/Latino,El Paso,Southwest,El Paso Police Department,Gunshot,yes
+Hispanic/Latino,Tahoka,Southwest,Lynn County Sheriff s Office,Gunshot,yes
+Unknown,Austin,Southwest,Austin Police Department,Gunshot,yes
+White,San Antonio,Southwest,San Antonio Police Department,Gunshot,yes
+White,Laredo,Southwest,Laredo Police Department,Gunshot,yes
+White,Sulphur Springs,Southwest,Sulphur Springs Police Department,Taser,yes
+Asian/Pacific Islander,Houston,Southwest,Harris County Attorney s Department,Gunshot,No
+Black,Arlington,Southwest,Arlington Police Department,Death in custody,No
+Black,Garland,Southwest,Garland Police Department,Gunshot,No
+Black,Houston,Southwest,Harris County Sheriff s Office,Gunshot,No
+Black,Waco,Southwest,Waco Police Department,Gunshot,No
+Black,Fort Worth,Southwest,Fort Worth Police Department,Gunshot,No
+Hispanic/Latino,Houston,Southwest,US Marshals Service,Gunshot,No
+Hispanic/Latino,Houston,Southwest,Houston Police Department,Gunshot,No
+Hispanic/Latino,Levelland,Southwest,Levelland Police Department,Gunshot,No
+Hispanic/Latino,Del Rio,Southwest,Del Rio Police Department and Val Verde County Sheriff s Office,Gunshot,No
+Hispanic/Latino,Houston,Southwest,Houston County Sheriff s Department,Gunshot,No
+White,Onalaska,Southwest,Onalaska Police Department,Gunshot,No
+White,Palestine,Southwest,Palestine Police Department,Gunshot,No
+White,Lake Jackson,Southwest,Lake Jackson Police Department,Gunshot,No
+White,Austin,Southwest,Austin Police Department,Gunshot,No
+White,Austin,Southwest,Austin Police Department,Gunshot,No
+Black,Sierra Blanca,Southwest,US Border Patrol,Gunshot,yes
+Hispanic/Latino,Baytown,Southwest,Baytown Police Department,Gunshot,yes
+Unknown,Mabank,Southwest,Texas Rangers/ ATF,Gunshot,yes
+White,Nocona,Southwest,Nocona Police Department,Gunshot,yes
+Hispanic/Latino,Electra,Southwest,Wichita County Sheriff s Office,Taser,Unknown
+White,Forth Worth,Southwest,Fort Worth Police Department,Gunshot,Unknown
+Asian/Pacific Islander,Garland,Southwest,Garland Police Department,Gunshot,yes
+Black,San Antonio,Southwest,San Antonio Police Department,Taser,yes
+Hispanic/Latino,Euless,Southwest,Grapevine Police Department,Gunshot,yes
+White,Salt Lake City,West,Salt Lake City Police Department,Gunshot,yes
+White,Syracuse,West,Syracuse Police Department  Davis County Sheriff s Office,Gunshot,yes
+White,Provo,West,Provo Police Department,Gunshot,yes
+White,Draper,West,West Valley City Police Department and Draper Police Police Department,Gunshot,No
+White,Roosevelt,West,Roosevelt Police Department,Gunshot,No
+Black,Chesapeake,Southeast,Chesapeake City Police Department,Gunshot,yes
+Black,Culpeper,Southeast,Culpeper Police Department,Taser,yes
+Hispanic/Latino,Arlington,Southeast,Arlington Police Department,Gunshot,yes
+White,Winchester,Southeast,Frederick County Sheriff s Office,Gunshot,yes
+Black,Portsmouth,Southeast,Portsmouth Police Department,Gunshot,No
+Black,Fairfax,Southeast,Fairfax County Sheriff s Office,Taser,No
+White,Pulaski,Southeast,Pulaski Police Department,Gunshot,No
+Black,Emporia,Southeast,Greensville County Sheriff s Office and Virginia State Police,Gunshot,yes
+Black,Portsmouth,Southeast,Portsmouth Police Department,Gunshot,yes
+Hispanic/Latino,Pasco,West,Pasco Police Department,Gunshot,yes
+Hispanic/Latino,Lakewood,West,Lakewood Police Department,Gunshot,yes
+Native American,Tonasket,West,US Forest Service ,Taser,yes
+White,Pasco,West,Franklin County Corrections Division,Death in custody,yes
+White,Sumas,West,US Border Patrol,Gunshot,yes
+White,Kennewick,West,Kennewick Police Department/Tri-City Swat Team,Gunshot,yes
+White,Vancouver,West,Clark County Sheriff s Department,Death in custody,yes
+White,Snohomish,West,Snohomish County Sheriff s Office,Gunshot,yes
+White,Tacoma,West,Tacoma Police Department,Gunshot,yes
+Black,Spokane,West,Spokane Police Department,Death in custody,No
+Unknown,Shelton,West,Mason County Sheriff s Office,Gunshot,yes
+Black,Madison,Midwest,Madison Police Department,Gunshot,yes
+White,Green Bay,Midwest,Green Bay Police Department,Gunshot,yes
+White,Fond du Lac,Midwest,Wisconsin State Police,Gunshot,yes
+White,Kenosha,Midwest,Kenosha Police Department,Gunshot,No
+Black,Milwaukee,Midwest,Milwaukee Police Department,Gunshot,yes
+White,Fort Ashby,Southeast,West Virginia State Police,Gunshot,yes
+White,Follansbee,Southeast,West Virginia State Police,Gunshot,No
+White,Gillette,West,Campbell County Sheriff s Office,Gunshot,yes

@@ -1,0 +1,468 @@
+name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,lawenforcementagency,cause,armed,pop,share_white,share_black,share_hispanic,p_income,h_income,county_income,comp_income,county_bucket,nat_bucket,pov
+A donte Washington,16,Male,Black,February,23,2015,Clearview Ln,Millbrook,AL,Millbrook Police Department,Gunshot,No,3779,60.5,30.5,5.6,28375,51367,54766,0.937935946,3,3,14.1
+Aaron Rutledge,27,Male,White,April,2,2015,300 block Iris Park Dr,Pineville,LA,Rapides Parish Sheriff s Office,Gunshot,No,2769,53.8,36.2,0.5,14678,27972,40930,0.683410701,2,1,28.8
+Aaron Siler,26,Male,White,March,14,2015,22nd Ave and 56th St,Kenosha,WI,Kenosha Police Department,Gunshot,No,4079,73.8,7.7,16.8,25286,45365,54930,0.825869288,2,3,14.6
+Aaron Valdez,25,Male,Hispanic/Latino,March,11,2015,3000 Seminole Ave,South Gate,CA,South Gate Police Department,Gunshot,Firearm,4343,1.2,0.6,98.8,17194,48295,55909,0.863814413,3,3,11.7
+Adam Jovicic,29,Male,White,March,19,2015,364 Hiwood Ave,Munroe Falls,OH,Kent Police Department,Gunshot,No,6809,92.5,1.4,1.7,33954,68785,49669,1.384867825,5,4,1.9
+Adam Reinhart,29,Male,White,March,7,2015,18th St and Palm Ln,Phoenix,AZ,Phoenix Police Department,Gunshot,No,4682,7,7.7,79,15523,20833,53596,0.388704381,1,1,58
+Adrian Hernandez,22,Male,Hispanic/Latino,March,27,2015,4000 Union Ave,Bakersfield,CA,Bakersfield Police Department,Gunshot,Firearm,5027,50.8,0.3,44.2,25949,58068,48552,1.195996045,4,4,17.2
+Adrian Solis,35,Male,Hispanic/Latino,March,26,2015,1500 Bayview Ave,Wilmington,CA,Los Angeles Police Department,Gunshot,Non-lethal firearm,5238,8.6,0.2,84.1,25043,66543,55909,1.190201935,4,4,12.2
+Alan Alverson,44,Male,White,January,28,2015,Pickett Runn Rd,Sunset,TX,Wise County Sheriff s Department and Texas DPS,Gunshot,Firearm,4832,14.6,17.7,66.3,16778,30391,38310,0.793291569,2,1,37.7
+Alan James,31,Male,White,February,7,2015,200 Abbie St SE,Wyoming,MI,Kentwood Police Department and Wyoming DPS,Gunshot,Other,3795,63.6,7.7,26.5,22005,44553,51667,0.862310566,3,2,18.4
+Albert Hanson Jr,76,Male,White,April,26,2015,7th Ave and Kansas Ave,Hanford,CA,Kings County Sheriff s Office,Gunshot,Knife,2786,51.4,0.9,44.9,26916,56065,48133,1.164793385,4,3,9.2
+Alec Ouzounian,40,Male,White,May,12,2015,28 Paseo Viento,Rancho Santa Margarita,CA,Orange County Sheriff s Department,Gunshot,No,9429,67.3,0.6,12.9,51186,117413,75422,1.556747368,5,5,4.4
+Alejandro Salazar,Unknown,Male,Hispanic/Latino,February,20,2015,1200 E Airtex Dr,Houston,TX,US Marshals Service,Gunshot,No,11228,7.5,32.1,53.3,27414,53572,53137,1.008186386,3,3,18.1
+Alexander Long,31,Male,White,February,25,2015,25th St and Poplar St,Terre Haute,IN,Terre Haute Police Department,Gunshot,Firearm,3413,83.7,7.6,3.1,25563,44857,40692,1.102354271,4,2,13.1
+Alexander Myers,23,Male,White,April,6,2015,5700 block Ashby Dr,Indianapolis,IN,Indianapolis Metropolitan Police Department,Gunshot,Non-lethal firearm,5573,64,23.5,7.5,25998,39727,42334,0.938418293,3,2,26
+Alexander Rivera,39,Male,Hispanic/Latino,May,30,2015,1128 Murfreesboro Pike,Nashville,TN,Metro Nashville Police Department,Gunshot,Firearm,6315,37.5,27,24.7,20027,25500,47335,0.538713426,1,1,36.3
+Alexia Christian,25,Female,Black,April,30,2015,141 Pryor St SW,Atlanta,GA,Atlanta Police Department,Gunshot,Vehicle,1997,30.5,58.4,6.4,23205,56190,56857,0.988268815,3,3,42.4
+Alfredo Rials-Torres,54,Male,Hispanic/Latino,May,19,2015,4219 2nd Road N,Arlington,VA,Arlington Police Department,Gunshot,Firearm,3651,52.2,16.2,15.7,29881,38125,103208,0.369399659,1,2,20.5
+Alice Brown,24,Female,White,March,17,2015,Van Ness Ave and Pine St,San Francisco,CA,San Francisco Police Department,Gunshot,Firearm,5286,44.8,6.9,16.5,41676,61904,75604,0.818792656,2,4,11.6
+Alvin Haynes,57,Male,Black,January,26,2015,1 Moreland Dr,San Francisco,CA,San Francisco Sheriff s Department,Death in custody,No,5740,31.3,7.5,15.2,37455,111903,88202,1.268712728,4,5,6.4
+Amilcar Perez-Lopez,21,Male,Hispanic/Latino,February,26,2015,Folsom St and 24th St,San Francisco,CA,San Francisco Police Department,Gunshot,Vehicle,4303,28.3,5.1,58.1,27384,60479,75604,0.799944447,2,4,12.7
+Andre Murphy Sr,42,Male,Black,January,7,2015,1223 Omaha Ave,Norfolk,NE,Norfolk Police Division,Death in custody,No,5213,92.3,2.3,2.9,23342,54809,46566,1.177017566,4,3,10.3
+Andres Lara-Rodriguez,21,Male,Hispanic/Latino,February,13,2015,S 12th St and Ruby St,Kansas City,KS,Kansas City KS Police Department and Kansas Highway Patrol,Gunshot,Other,4149,40.3,10.7,41.4,22719,32471,39402,0.824095224,2,1,36.5
+Andrew Driver,36,Male,White,March,13,2015,9700 Kempster Ave,Fontana,CA,Fontana Police Department,Gunshot,Firearm,6460,17.8,4.4,76.4,18376,39153,54090,0.72384914,2,2,24.4
+Andrew Jackson,26,Male,White,April,29,2015,1200 W Florida Ave,Chickasha,OK,Grady County Sheriff s Department and Chickasha Police Department,Gunshot,Firearm,3348,77.7,0.9,9.7,17695,32034,49637,0.645365352,1,1,20.3
+Andrew Shipley,49,Male,White,March,17,2015,360 Argyle Ct,Medford,OR,Medford Police Department,Gunshot,Firearm,5824,78.1,2.2,15.1,21610,43625,44005,0.991364618,3,2,24.8
+Andrew Toto,54,Male,White,January,21,2015,Scobie Pond Rd and Julian Rd,Derry,NH,Derry Police Department,Gunshot,Firearm,4521,94,1.8,1.9,32921,61167,77348,0.790802606,1,4,5.4
+Andrew Valadez,26,Male,White,April,23,2015,Tyler St and Glenoaks Blvd,Sylmar,CA,Los Angeles Police Department,Gunshot,Firearm,3202,7.7,6,77.9,22441,52344,55909,0.936235669,3,3,17.4
+Andrew Williams,48,Male,Black,March,6,2015,Putnam Loop Rd,Putnam Hall,FL,Putnam County Sheriff s Office,Gunshot,Firearm,6172,86.2,7.4,6.5,23926,36844,32497,1.133766194,4,2,18.2
+Andy Martinez,33,Male,Hispanic/Latino,January,9,2015,4400 Tetons Dr,El Paso,TX,El Paso Police Department,Gunshot,Firearm,4160,6,3.4,89.9,13231,17388,40157,0.433000473,1,1,58.1
+Angel Corona Jr,21,Male,Hispanic/Latino,April,10,2015,4740 Barham Ave,Corning,CA,Tehama County Sheriff s Department,Gunshot,Knife,7886,56.6,1.2,35.9,19599,46320,41924,1.104856407,4,3,24.1
+Angelo West,41,Male,Black,March,27,2015,Humboldt Ave and Ruthven St,Roxbury,MA,Boston Police Department,Gunshot,Firearm,4924,1.6,66.4,35.2,14995,20388,53540,0.380799402,1,1,41.3
+Anthony Bess,48,Male,Black,February,10,2015,4545 Aldridge Dr,Memphis,TN,Memphis Police Department,Gunshot,Vehicle,4228,0.6,98.6,0,22968,37109,46250,0.802356757,3,2,18.9
+Anthony Briggs,36,Male,Black,May,25,2015,1100 E Gateway Dr SE,Huntsville,AL,Huntsville Police Department,Gunshot,Knife,6018,89.9,4.3,1.4,34698,57935,58434,0.991460451,3,4,8.9
+Anthony Giaquinta,41,Male,Hispanic/Latino,February,22,2015,Lower Pond Ct,Clarkesville,GA,Habersham County Sheriff s Office,Gunshot,Firearm,5601,93.7,0.6,5.1,22085,47196,39306,1.200732713,5,3,9.5
+Anthony Gomez Jr,29,Male,Black,May,19,2015,305 E Walnut St,Lancaster,PA,Lancaster Police Department,Gunshot,Knife,2742,42,12.3,37.1,21868,42027,56483,0.744064586,1,2,9.3
+Anthony Hill,27,Male,Black,March,9,2015,3028 Chamblee Dunwoody Rd,Chamblee,GA,DeKalb County Sheriff s Department,Gunshot,No,3305,60.1,9.5,13.7,32142,57964,50856,1.139767186,4,4,18.6
+Anthony Purvis,45,Male,White,February,3,2015,1404 N June Ave,Douglas,GA,Douglas Police Department,Gunshot,Firearm,4838,65.1,23.7,6.3,21769,38988,35693,1.09231502,4,2,27.8
+Antonio Perez,32,Male,Hispanic/Latino,March,12,2015,2400 Flower St,Los Angeles,CA,Los Angeles County Sheriff s Department,Gunshot,Firearm,2584,4.3,3.4,89.6,15373,27585,55909,0.493391046,1,1,37.4
+Antonio Zambrano-Montes,35,Male,Hispanic/Latino,February,10,2015,1107 W Lewis St,Pasco,WA,Pasco Police Department,Gunshot,Firearm,6747,16.5,0.9,78.7,16558,28537,55177,0.517190134,1,1,35.9
+Artago Howard,36,Male,Black,January,8,2015,9661 Strong Hwy,Strong,AR,Union County Sheriff s Office,Gunshot,Firearm,3245,53.7,44.4,1.8,17853,32614,37435,0.871216776,2,1,15.6
+Askari Roberts,35,Male,Black,March,17,2015,3189 Morton Bend Rd,Rome,GA,Floyd County Sheriff s Office,Taser,Knife,4947,94.1,2.4,2.6,20248,40708,40821,0.997231817,3,2,20.5
+Aurelio Duarte,40,Male,Hispanic/Latino,March,8,2015,3632 SW 38th St,Oklahoma City,OK,Oklahoma City Police Department,Gunshot,Vehicle,5887,33.9,2.6,56.6,17225,32860,45215,0.726749972,2,1,25.1
+Austin Goodner,18,Male,White,May,17,2015,5236 Robin Ln N,St Petersburg,FL,St Petersburg Police Department,Gunshot,Firearm,5004,83.9,4,5.5,26667,46233,45535,1.015328868,3,3,17.1
+Autumn Steele,34,Female,White,January,6,2015,104 N Garfield Ave,Burlington,IA,Burlington Police Department,Gunshot,Firearm,4465,72.1,14.5,6.8,15488,26964,42451,0.635179383,1,1,26.3
+Benito Osorio,39,Male,Hispanic/Latino,March,11,2015,300 S Main St,Santa Ana,CA,Santa Ana Police Department,Gunshot,Knife,8623,4.2,0.2,93.9,19978,47233,75422,0.626249635,1,3,20.6
+Benjamin Quezada,21,Male,Hispanic/Latino,March,31,2015,West Texas Ave and Gaillard St,Baytown,TX,Baytown Police Department,Gunshot,Other,3013,3.3,11.7,84.7,18995,30804,53137,0.579709054,1,1,36.2
+Bernard Moore,62,Male,Black,March,6,2015,Metropolitan Pkwy and Fair Dr,Atlanta,GA,Atlanta Police Department,Struck by vehicle,No,3580,5.1,85.1,6.2,14256,17545,56857,0.308581177,1,1,41.4
+Betty Sexton,43,Female,White,February,17,2015,2325 Union Rd,Gastonia,NC,Gastonia Police Department,Gunshot,Firearm,5876,59.9,31.7,2.9,18843,30408,42017,0.723707071,1,1,28.7
+Billy Grimm,44,Male,White,May,3,2015,Arenal Rd SW and Tapia Blvd SW,Albuquerque,NM,Bernalillo County Sheriff s Department,Gunshot,Firearm,5203,15.8,0.3,81.5,21170,39651,48801,0.812503842,2,2,25.8
+Billy Patrick,29,Male,White,April,26,2015,NA,Bunch,OK,Oklahoma Department of Wildlife Conservation,Gunshot,Firearm,4601,39.3,0.1,1.7,20901,35022,32556,1.075746406,4,2,19.1
+Bobby Gross,35,Male,Black,March,12,2015,700 14th St NW,Washington,DC,Washington DC Metro Transit Police,Gunshot,Firearm,2664,60.6,7.8,10.5,86023,118194,65830,1.795442807,5,5,11.9
+Bradford Leonard,50,Male,White,February,22,2015,900 Castile Rd SE,Palm Bay,FL,Palm Bay Police Department,Gunshot,Knife,8874,57,17.7,19.8,22105,39535,48039,0.822977164,2,2,14.1
+Brandon Jones,18,Male,Black,March,19,2015,1077 Parkwood Dr,Cleveland,OH,Cleveland Division of Police,Gunshot,Firearm,2182,0,98.9,0.1,14560,19643,43804,0.448429367,1,1,32.8
+Brandon Lawrence,25,Male,White,April,25,2015,800 Simpson Rd,Victoria,TX,Victoria Police Department,Gunshot,Firearm,6701,74.9,0.8,22.8,27813,59961,50364,1.190552776,5,4,10.2
+Brandon Rapp,31,Male,White,March,18,2015,9000 Charles Way,Middleton,ID,Canyon County Sheriff s Office,Gunshot,Knife,9680,89,0,8.1,28125,58600,42105,1.391758698,5,4,9.5
+Brendon Glenn,29,Male,Black,May,6,2015,1602 Pacific Ave,Los Angeles,CA,Los Angeles Police Department,Gunshot,Firearm,2860,70.7,4.5,15.5,42931,60714,55909,1.085943229,3,4,13.2
+Brian Babb,49,Male,White,March,31,2015,2200 Devos St,Eugene,OR,Eugene Police Department,Gunshot,Firearm,5057,79.7,1.4,14.5,20407,47795,42931,1.113298083,3,3,21.6
+Brian Barbosa,23,Male,Unknown,January,11,2015,8900 Kauffman Ave,South Gate,CA,South Gate Police Department,Gunshot,Firearm,4179,2,1.1,96.6,18047,43750,55909,0.782521598,2,2,16.3
+Brian Fritze,45,Male,White,February,10,2015,I-70 and US-6,Glenwood Springs,CO,Garfield County Sheriff s Office,Gunshot,Knife,3880,69.7,0.1,28,35827,59051,57022,1.035582758,3,4,7.7
+Brian Pickett,26,Male,Black,January,6,2015,1600 E 123rd St,Los Angeles,CA,Los Angeles County Sheriff s Department,Taser,Firearm,3078,1.9,47.3,45.9,17893,38690,55909,0.692017385,2,2,23.6
+Brock Nichols,35,Male,White,January,6,2015,2388 E Kansas Hwy 4,Assaria,KS,Saline County Sheriff s Office,Gunshot,Knife,3770,94.9,0.6,3.2,31080,57244,47215,1.21241131,4,4,9.5
+Bruce Steward,34,Male,White,February,15,2015,29000 S Wall St,Colton,OR,Clackamas County Sheriff s Office,Gunshot,Non-lethal firearm,4689,93.2,0.3,2.2,25130,58358,64352,0.906856042,2,4,5
+Bruce Zalonka,46,Male,Asian/Pacific Islander,May,12,2015,1031 Nuuanu Ave,Honolulu,HI,US Marshals Service,Gunshot,No,1392,43,7.7,1,35788,62594,72764,0.860233082,2,4,14.4
+Byron Herbert,29,Male,Black,March,29,2015,111 Towne Dr,Elizabethtown,KY,Elizabethtown Police Department,Gunshot,Knife,10220,86.2,6.4,3.9,28556,58463,48687,1.200792819,4,4,8.6
+Calvon Reid,39,Male,Black,February,22,2015,1701 Andros Isle,Coconut Creek,FL,Coconut Creek Police Department,Taser,Firearm,4828,73.2,6,14.4,27031,39561,51251,0.77190689,2,2,7.8
+Carl Lao,28,Male,Asian/Pacific Islander,March,4,2015,South San Joaquin St and East Church St,Stockton,CA,Stockton Police Department and San Joaquin County Sheriff s Office,Gunshot,Knife,3568,12.2,18.9,48.3,11805,15212,53380,0.284975646,1,1,50.7
+Carlos Saavedra Ramirez,51,Male,Hispanic/Latino,April,22,2015,101 Naco Hwy,Bisbee,AZ,Bisbee Police Department,Gunshot,Knife,3035,46,0.9,51.3,20428,36442,45755,0.796459403,2,2,25.8
+Carter Ray Castle,67,Male,White,January,18,2015,Kentucky Rte 7,Gunlock,KY,Magoffin County Sheriff s Office and Kentucky State Police,Gunshot,Firearm,2422,95.9,0,0,12840,25139,26877,0.935335045,NA,1,34.2
+Cary Martin,53,Male,White,May,14,2015,497 Florida Ave,St Augustine,FL,St Johns County Sheriff s Office,Gunshot,Firearm,5102,94.4,0.5,2.9,31274,59167,64876,0.912001356,3,4,10.6
+Caso Jackson,25,Male,Black,May,23,2015,13331 Strathmoor St,Detroit,MI,Detroit Police Department,Gunshot,No,2560,0,98.4,1,14177,24539,41184,0.59583819,2,1,46.3
+Cedrick Bishop,30,Male,Black,March,9,2015,Aurora St,Cocoa,FL,Brevard County Sheriff s Office,Gunshot,Knife,2621,18.1,67.5,11.5,13805,21000,48039,0.43714482,1,1,47.4
+Celin Nunez,24,Male,Hispanic/Latino,April,13,2015,3 Greens Rd,Houston,TX,Houston Police Department,Gunshot,No,4049,6.5,31.8,58.6,16689,24072,53137,0.453017671,1,1,40.9
+Chance Thompson,35,Male,White,February,15,2015,Hammonton Smartville Rd,Marysville,CA,Yuba County Sheriff s Office,Taser,Firearm,2367,40.7,1.4,35.8,14746,28837,44902,0.642220836,1,1,32.2
+Charly  Africa  Keunang,43,Male,Black,March,1,2015,500 San Pedro St,Los Angeles,CA,Los Angeles Police Department,Gunshot,Vehicle,5222,18,54.9,23,8206,10290,55909,0.18404908,1,1,79.2
+Chazsten Freeman,24,Male,White,February,27,2015,South Carolina Rte 8 and Augusta Rd,Peltzer,SC,Greenville County Sheriff s Office,Gunshot,Firearm,5304,71.5,20.2,3.9,22409,42159,49022,0.860001632,3,2,14.4
+Chris Ingram,29,Male,White,January,27,2015,Coronado Trail,Morenci,AZ,Clifton Police Department and Greenlee County Sheriff s Office,Gunshot,Firearm,3357,41,1.7,53.4,37579,60670,47992,1.264169028,NA,4,10.9
+Chrislon Talbott,38,Male,Black,May,21,2015,4585 Frederica St,Owensboro,KY,Owensboro Police Department and Kentucky State Police,Gunshot,Firearm,3548,88.7,3,1.7,33294,70638,46555,1.517302116,5,4,10.9
+Christopher Finley,31,Male,White,April,14,2015,900 Walnut St,Jonesboro,AR,Jonesboro Police Department,Gunshot,No,3886,67.2,21.7,10,22080,43259,41393,1.045080086,3,2,18.2
+Christopher Healy,36,Male,White,March,22,2015,2300 SE 130th Ave,Portland,OR,Portland Police Department,Gunshot,Other,7687,61.8,6.4,15.4,21049,35978,52511,0.685151683,1,2,31
+Christopher Mitchell,23,Male,White,March,10,2015,6530 Georgia Rte 21,Port Wentworth,GA,Port Wentworth Police Department,Gunshot,Firearm,18168,52.5,36.5,4.4,37721,68136,45794,1.487880508,5,4,12.2
+Christopher Prevatt,38,Male,White,April,3,2015,123 Gregory Pl,Winchester,VA,Frederick County Sheriff s Office,Gunshot,Firearm,6987,78.2,5.4,14.2,21845,47714,68424,0.697328423,1,3,11.6
+Clifton Reintzel,53,Male,White,March,13,2015,600 Main St,Follansbee,WV,West Virginia State Police,Gunshot,No,3292,94.9,3.7,0.3,23583,37026,42493,0.871343515,1,2,14.4
+Cody Evans,24,Male,White,February,15,2015,1600 W 500 N,Provo,UT,Provo Police Department,Gunshot,Knife,6457,62.7,0.3,28.3,14816,41866,60196,0.695494717,1,2,20.5
+Cody Karasek,26,Male,White,January,28,2015,4100 Avenue I,Rosenberg,TX,Rosenburg Police Department,Gunshot,Firearm,10229,32.9,15,48.3,22235,53831,85297,0.631100742,2,3,19.4
+Cornelius Parker,28,Male,Black,February,28,2015,E Broadway and US-63,Columbia,MO,Boone County Sheriff s Department,Gunshot,Firearm,4377,82.8,4.9,5.3,21264,36649,48627,0.753675941,2,2,36.2
+Crystal Miley,34,Female,White,February,26,2015,5101 Georgia Rte 133,Moultrie,GA,Worth County Sheriff s Office,Gunshot,Knife,3520,63.6,7.7,21.4,21667,54871,32484,1.689170053,5,3,14.8
+D Angelo Stallworth,28,Male,Black,May,12,2015,7300 Blanding Blvd,Jacksonville,FL,Jacksonville Police Department,Gunshot,Firearm,11284,31.8,51,12,22472,40071,48323,0.829232457,2,2,20
+DaJuan Graham,40,Male,Black,May,12,2015,13900 Castle Blvd,Silver Spring,MD,Montgomery County Police Department,Taser,Firearm,3121,3.8,81.2,6.1,25799,42097,98221,0.4285947,1,2,19.9
+Dalton Branch,51,Male,Black,May,26,2015,530 Stanley Ave,New York,NY,New York Police Department,Gunshot,No,4941,1.5,83.1,15.6,21344,34545,46085,0.749593143,2,2,20.1
+Dana Hlavinka,44,Male,White,April,19,2015,1363 Clark Dr,Sidney,NE,Sidney Police Department,Gunshot,Firearm,4293,87.8,0,10.3,30465,51033,51529,0.990374352,NA,3,16.5
+Daniel Brumley,25,Male,Hispanic/Latino,January,17,2015,NE 36th St,Fort Worth,TX,Fort Worth Police Department,Gunshot,Firearm,4917,8.5,0.4,89.6,19146,32245,56853,0.567164442,1,1,21.5
+Daniel Caldwell,56,Male,White,February,16,2015,8351 N Cracker Barrel Rd,Marana,AZ,Marana Police Department,Gunshot,Knife,8205,69.3,2.8,17.8,38593,69616,45841,1.518640518,4,4,3
+Daniel Covarrubias,37,Male,Hispanic/Latino,April,21,2015,3600 SW 108th St,Lakewood,WA,Lakewood Police Department,Gunshot,Firearm,3531,51.6,11,18.4,21626,38688,59204,0.65346936,1,2,18
+Daniel Davis,58,Male,White,April,25,2015,8624 Firestone Cir,Clermont,FL,Lake County Sheriff s Office,Gunshot,Firearm,11794,62.5,15.8,15.9,24749,54905,45035,1.219162873,4,3,9.4
+Daniel Elrod,39,Male,White,February,24,2015,1299 Hickory St,Omaha,NE,Omaha Police Department,Gunshot,Firearm,2314,55.5,6.4,36,16218,32948,53325,0.617871542,2,1,30.5
+Daniel Mejia,37,Male,Hispanic/Latino,February,15,2015,200 S McNab Pkwy,San Manuel,AZ,Pinal County Sheriff s Office,Gunshot,No,3887,49.2,0.1,49.8,22833,40984,50027,0.819237612,2,2,15.7
+Daniel Wolfe,35,Male,Black,April,21,2015,1714 Walker Ave,Union,NJ,New Jersey State Police,Gunshot,Knife,4904,23.7,54.6,7,39122,62029,68507,0.90544032,3,4,10.9
+Darin Hutchins,26,Male,Black,January,24,2015,1900 McHenry St,Baltimore,MD,Baltimore Police Department,Gunshot,Firearm,1625,17.4,75.7,0,11157,21433,41385,0.517892956,1,1,51
+Darrell  Hubbard  Gatewood,47,Male,Black,March,1,2015,616 SW 59th St,Oklahoma City,OK,Oklahoma City Police Department,Taser,Firearm,1812,43.6,4.9,36,22857,32886,45215,0.727325003,2,1,33.4
+Darrell Brown,31,Male,Black,April,16,2015,402 North Prospect St,Hagerstown,MD,Hagerstown Police Department,Taser,Firearm,1970,41.5,52.6,3.1,12109,16007,55609,0.287849089,1,1,46.7
+Darrell Morgan,60,Male,White,May,28,2015,3164 Charlotte Hwy,Lancaster,SC,Lancaster County Sheriff s Department,Gunshot,No,5787,65.4,32.1,1.5,22385,41675,42217,0.98716157,NA,2,18.4
+Darrin Langford,32,Male,Black,April,2,2015,12th Ave and Glenhurst Ct,Rock Island,IL,Rock Island Police Department,Gunshot,No,2023,40.4,44,10.4,20610,37215,48702,0.764136996,2,2,26.9
+Daryl Myler,45,Male,White,January,24,2015,164 E Main St,Rexburg,ID,Rexburg Police Department,Gunshot,Non-lethal firearm,3481,88.9,0.1,6.4,10987,19672,32059,0.613618641,1,1,42.4
+David Cuevas,42,Male,Hispanic/Latino,February,26,2015,4660 N Socrum Loop Rd,Lakeland,FL,Lakeland Police Department,Gunshot,Firearm,5059,75.3,13.7,10.5,21474,39108,43113,0.907104586,2,2,14.3
+David Gaines,17,Male,White,May,19,2015,N 10th St and Gunnison Ave,Grand Junction,CO,Grand Junction Police Department,Gunshot,Firearm,2291,74,1.3,20.3,21109,30484,49471,0.61619939,1,1,25.7
+David Gandara,22,Male,Hispanic/Latino,May,21,2015,5111 Fairbanks Dr,El Paso,TX,El Paso Police Department,Gunshot,Firearm,3864,20.4,9.8,70.7,18438,31963,40157,0.795950893,3,1,26.2
+David Garcia,33,Male,Hispanic/Latino,January,26,2015,1134 E St,Wasco,CA,Kern County Sheriff s Office,Gunshot,Firearm,4934,5.7,6.1,88.5,12741,23692,48552,0.487971659,1,1,50.6
+David Johnson,18,Male,White,May,7,2015,300 Stone Monument Dr,Wake Forest,NC,Wake Forest Police Department,Gunshot,No,5100,88.2,8.5,1.4,30061,57174,66006,0.866193982,2,4,8.5
+David Kapuscinski,39,Male,White,April,16,2015,14680 Middle Gibraltar Rd,Rockwood,MI,Gibraltar Police Department,Taser,Firearm,4596,94.1,3.2,1.5,29488,67636,41184,1.642288267,5,4,11.2
+David Kassick,59,Male,White,February,2,2015,36 Grandview Rd,Hanover,PA,Hummelstown Police Department,Gunshot,Firearm,4487,92.2,2.9,5.9,30491,65581,58745,1.11636735,4,4,7.4
+David Lynch,33,Male,White,April,3,2015,11974-11998 US-64,Muskogee County,OK,Warner Police Department,Taser,Firearm,4745,44.7,25,1.9,18370,28836,38502,0.748948107,2,1,34.7
+David Parker,58,Male,White,April,28,2015,36 Randall Rd,Mansfield,OH,Mansfield Police Department,Gunshot,Firearm,2991,94.3,3.9,1.1,24348,37992,41835,0.908139118,2,2,8.7
+David Schwalm,58,Male,White,May,8,2015,168 Auringer Rd,Constantania,NY,Oswego County Sheriff s Department,Gunshot,No,4968,95.7,0,2,23883,49360,48051,1.027241889,3,3,12.9
+David Watford,47,Male,White,March,17,2015,US-65,Tallulah,LA,Louisiana State Troopers,Struck by vehicle,Firearm,3403,51.3,47.8,0.9,15373,21803,25498,0.855086673,2,1,43.1
+David Werblow,41,Male,White,March,15,2015,134 Burban Dr,Branford,CT,Branford Police Department,Taser,Other,4066,76.8,2.1,8.8,41609,64063,61996,1.033340861,3,4,8.3
+Dean Bucheit,64,Male,White,February,9,2015,13600 Culver Blvd,Los Angeles,CA,Los Angeles Police Department,Struck by vehicle,Firearm,4225,22.5,1.8,64.6,21130,55458,55909,0.99193332,3,3,7.3
+Dean Genova,45,Male,White,April,26,2015,13822 Brookhurst St,Garden Grove,CA,Fountain Valley Police Department,Gunshot,Firearm,4791,9.5,0,33.9,19598,56818,75422,0.753334571,2,4,24.3
+Deanne Choate,53,Female,White,March,26,2015,400 N Birch,Gardner,KS,Gardner Police Department,Gunshot,Firearm,4643,87.1,1.8,3.4,33869,67702,74717,0.906112397,3,4,6.3
+Declan Owen,24,Male,White,March,17,2015,8100 North Carolina Hwy 41,Dublin,NC,Bladen County Sheriff s Office and Bladenboro Police Department,Gunshot,Knife,6056,54.9,22,19.1,16983,25690,30164,0.851677496,1,1,26.7
+Dedrick Marshall,48,Male,Black,May,8,2015,3020 Destrehan Ave,Harvey,LA,Jefferson Parish Sheriff s Office,Gunshot,Firearm,4232,10.8,86.4,2.6,23944,42083,48261,0.871987733,3,2,38.3
+Demaris Turner,29,Male,Black,January,23,2015,1980 NW 46 Ave,Lauderhill,FL,Lauderhill Police Department,Gunshot,No,6074,3.2,94.4,5,20254,29884,51251,0.583091062,1,1,26.9
+Denis Reyes,40,Male,Hispanic/Latino,May,15,2015,274 E 194th St,New York,NY,New York Police Department,Death in custody,Firearm,5169,0.9,19.5,71.9,15656,26509,34388,0.770879377,2,1,36.7
+Dennis Fiel,34,Male,White,May,17,2015,7700 Mesa College Dr,San Diego,CA,San Diego Police Department,Gunshot,Vehicle,5029,47.3,6.7,29,26928,66542,62962,1.056859693,3,4,10.8
+Denzel Brown,21,Male,Black,March,22,2015,1851 Sunrise Hwy,Bay Shore,NY,Suffolk County Police Department,Gunshot,Firearm,8222,28.9,22.8,39.6,30784,72218,87763,0.822875244,1,4,4.4
+Derek Cruice,26,Male,White,March,4,2015,800 Maybrook Dr,Deltona,FL,Volusia County Sheriff s Office,Gunshot,Unknown,3536,52.2,5.1,41.5,19921,43413,42457,1.022516899,3,2,17.4
+Desmond Luster,45,Male,Black,February,9,2015,7400 Bonnie View Rd,Dallas,TX,Dallas Police Department,Gunshot,Firearm,4044,0.4,84.8,14,14256,23931,49481,0.483640185,1,1,40.1
+Desmond Willis,25,Male,Black,April,6,2015,2515 Manhattan Blvd,Harvey,LA,Jefferson Parish Sheriff s Office,Gunshot,Firearm,3085,19,46.1,28.8,18257,25950,48261,0.537701249,1,1,39.4
+Deven Guilford,17,Male,White,March,1,2015,331 W Grand Ledge Hwy,Roxand Township,MI,Eaton County Sheriff s Office,Gunshot,Non-lethal firearm,3751,96.1,0.1,3.1,32088,67756,54115,1.252074286,5,4,8.5
+Devin Gates,24,Male,Black,March,22,2015,2105 Scott Blvd,Santa Clara,CA,Santa Clara Police Department,Gunshot,Other,6461,23.6,3,49.1,26846,62664,91702,0.683343875,1,4,9.1
+Dewayne Carr,42,Male,Black,January,15,2015,Chaparral Rd and Hayden Rd,Scottsdale,AZ,Scottsdale Police Department,Gunshot,Knife,4542,86.8,0.3,10.5,36099,52038,53596,0.970930666,3,3,10
+Dewayne Ward Jr,29,Male,Black,February,3,2015,1000 Claudia Ct,Antioch,CA,Contra Costa Sheriff s Office,Gunshot,Firearm,5072,37.5,5,54.3,22193,45512,78756,0.577886129,1,3,20.7
+Dexter Bethea,42,Male,Black,April,8,2015,3022 James Rd,Valdosta,GA,Lowndes County Sheriff s Office,Gunshot,Knife,2156,54.9,42.7,0.6,19031,34083,37365,0.91216379,3,1,19.3
+Dominick Wise,30,Male,Black,March,30,2015,1301 Spring Meadow Ln,Culpeper,VA,Culpeper Police Department,Taser,Firearm,6106,55,22.1,14.9,28490,46382,64423,0.719960263,1,3,14.8
+Don Smith,29,Male,Black,April,9,2015,8516 N Meridian Rd,Monon,IN,"Indiana State Police, Tippecanoe County Sheriff s Department",Gunshot,Firearm,2733,76.2,0,19.9,21858,40959,51444,0.796186144,1,2,21.8
+Donald  Dontay  Ivy,39,Male,Black,April,2,2015,Lark St and Second St,Albany,NY,City of Albany Police Department,Taser,Firearm,5335,9.3,81.6,13.5,14520,20665,59394,0.347930767,1,1,44.5
+Donald Hicks,63,Male,White,April,2,2015,Illinois Rte 145 and Waldo Church Rd,Metropolis,IL,Metropolis Police Department,Gunshot,Non-lethal firearm,3721,83.5,9,1.1,25135,51518,43615,1.181199129,NA,3,11.3
+Donald Matkins,49,Male,White,March,1,2015,Mt Pleasant Rd,Lucedale,MS,George County Sheriff s Department,Gunshot,Firearm,6604,94.3,4.7,0.1,21837,36319,43958,0.826220483,1,2,22.9
+Donte Noble,41,Male,Black,April,15,2015,200 Canaan Pointe Dr,Spartanburg,SC,Spartanburg Police Department,Gunshot,Firearm,3700,70.6,24.1,1.5,19755,35453,42919,0.826044409,2,2,26
+Donte Sowell,27,Male,Black,January,15,2015,East 38th St and North Mitthoeffer Rd,Indianapolis,IN,Indianapolis Metropolitan Police Department,Gunshot,Other,7499,21.5,53,20.9,20623,36070,42334,0.852033826,3,2,28.9
+Doug Sparks,30,Male,White,February,17,2015,Forest Ave,Tewksbury,MA,Tewksbury Police Department,Gunshot,No,5994,91.1,2.1,3.4,51071,102399,82090,1.247399196,4,5,1.8
+Douglas Faith,60,Male,White,April,8,2015,Karen Ln and Corinne Dr,San Antonio,TX,San Antonio Police Department,Gunshot,Knife,8023,25.2,17.5,53.5,21342,35099,50112,0.700411079,2,2,15.4
+Douglas Harris,77,Male,Black,March,27,2015,7901 1st Ave S,Birmingham,AL,Birmingham Police Department,Gunshot,No,3708,22.2,77.8,1.5,13968,23977,45429,0.527790618,1,1,37.5
+Ebin Proctor,19,Male,Unknown,May,30,2015,Yuma Circle,Cottonwood,AZ,Yavapai County Sheriffí_í_és Office,Gunshot,No,5206,65,0.9,30.3,16415,36818,42987,0.856491497,1,2,21.7
+Edixon Franco,37,Male,Hispanic/Latino,March,10,2015,Fern Ave and Phillips St,Ontario,CA,Ontario Police Department,Gunshot,Firearm,5950,15.6,5.8,66,24026,61989,54090,1.146034387,4,4,7.6
+Edward Bright Sr,54,Male,Black,January,31,2015,9800 Liberty Rd,Randallstown,MD,Baltimore County Police Department,Gunshot,Firearm,3070,11.3,86.4,0,37922,54274,66486,0.816322233,2,3,10.1
+Elias Cavazos,29,Male,Hispanic/Latino,April,17,2015,Girard Street and Acacia Ave,Hemet,CA,Riverside County Sheriff s Department and California Highway Patrol,Gunshot,Firearm,2886,48.3,8.1,38.4,17632,32708,56529,0.578605671,1,1,32
+Elton Simpson,30,Male,Black,May,3,2015,4999 Naaman Forest Blvd,Garland,TX,Garland Police Department,Gunshot,No,4775,34.7,16.3,14.6,31009,49973,49481,1.009943211,3,3,9.2
+Elvin Diaz,24,Male,Hispanic/Latino,May,21,2015,10 Temple Ave,Hackensack,NJ,Hackensack Police Department,Gunshot,Knife,6844,43,18.6,23.5,35008,51051,83794,0.609244099,1,3,11.1
+Enoch Gaver,21,Male,White,March,21,2015,2003 E Rodeo Dr,Cottonwood,AZ,Cottonwood Police Department,Gunshot,Firearm,5206,65,0.9,30.3,16415,36818,42987,0.856491497,1,2,21.7
+Eric Harris,44,Male,Black,April,2,2015,1900 block N Harvard Ave,Tulsa,OK,Tulsa County Sheriff s Office,Gunshot,Firearm,3300,52.2,23.8,10.1,16953,34432,48181,0.71463855,2,2,26.7
+Eric Robinson,40,Male,White,May,23,2015,135 N Main St,Eagar,AZ,Eagar Police Department and Apache County Sheriff s Office,Gunshot,Firearm,5269,68.6,0,23.6,20644,47821,31476,1.519284534,5,3,16.3
+Erick Rose,32,Male,White,April,7,2015,Post Office Neck Rd and Lake Rd,Shawnee,OK,Pottawatomie County Sheriff s Office,Gunshot,Knife,4681,84.1,0.3,3.8,31930,60759,42764,1.420797867,5,4,18
+Erick Sanchez,22,Male,Hispanic/Latino,April,30,2015,11565 James Watt Dr,El Paso,TX,El Paso Police Department,Gunshot,Knife,5921,7.9,2.1,83.7,27255,58026,40157,1.44497846,5,4,17.8
+Erik Tellez,43,Male,White,April,18,2015,20th St and Thomas Rd,Phoenix,AZ,Phoenix Police Department,Gunshot,Firearm,3082,20.6,5.9,71.2,19343,27066,53596,0.505000373,1,1,39.9
+Ernesto Flores,52,Male,Hispanic/Latino,April,15,2015,11157 Chico Ave,Pomona,CA,San Bernardino County Sheriff s Office,Gunshot,Knife,7528,12.6,3.5,77,22177,46944,54090,0.867886855,3,3,23.2
+Ernesto Javier Canepa Diaz,27,Male,Hispanic/Latino,February,27,2015,1000 W 3rd St,Santa Ana,CA,Santa Ana Police Department,Gunshot,No,9699,0.5,0.2,96.3,16620,41611,75422,0.55170905,1,2,25.7
+Ethan Noll,34,Male,White,April,4,2015,Mountainair St,Edgewood,NM,New Mexico State Police,Gunshot,Vehicle,4356,67.9,0,27.1,27273,49308,52917,0.931798855,2,3,12.5
+Eugene Smith II,20,Male,White,March,17,2015,313 S Houston Ave,Onalaska,TX,Onalaska Police Department,Gunshot,No,6613,84.7,4.4,7.5,26675,39113,37855,1.03323207,3,2,16.3
+Fednel Rhinvil,25,Male,Black,March,3,2015,East Rd and Olivia St,Salisbury,MD,Maryland State Police,Gunshot,Firearm,6493,11.1,75.1,11.3,18976,30844,51092,0.603695295,1,1,23.4
+Felix David,24,Male,Black,April,25,2015,538 E Sixth St,New York,NY,New York Police Department,Gunshot,Knife,4074,63.1,0.5,6.5,37028,63159,46085,1.370489313,4,4,11
+Feras Morad,20,Male,Unknown,May,27,2015,4600 E 15th St,Long Beach,CA,Long Beach Police Department,Gunshot,Firearm,4863,46.4,6.1,24.4,31776,65912,55909,1.178915738,4,4,11.3
+Fletcher Stewart,46,Male,White,February,11,2015,Booger Hollow Rd,Dadeville,AL,Tallapoosa County Sheriff s Department,Gunshot,Firearm,4720,66.2,30.9,0.1,18363,36694,39130,0.937745975,3,2,20.1
+Francis Rose III,42,Male,White,February,2,2015,9000 Buena Vista St,Apple Valley,CA,San Bernardino County Sheriff s Department,Gunshot,Firearm,4284,70.2,1.3,23.3,23716,49844,54090,0.921501202,3,3,23.6
+Francis Spivey,43,Male,White,February,25,2015,5300 East Craig Road,Las Vegas,NV,Las Vegas Metro Police (Swat),Gunshot,Firearm,4726,39.3,27.1,22.1,23444,35924,52873,0.679439411,1,2,19.9
+Frank  Trey  Shephard III,41,Male,Black,April,15,2015,Castlegory Rd and Wallisville Rd,Houston,TX,Harris County Sheriff s Office,Gunshot,No,4412,21.2,19,57.8,30261,81172,53137,1.527598472,5,5,14.6
+Fred Liggett Jr,59,Male,White,March,13,2015,8700 E 97th Ter,Kansas City,MO,US Marshals Service,Gunshot,No,4411,34.2,57.3,1.1,25030,46007,47015,0.978560034,3,3,14.1
+Freddie Gray,25,Male,Black,April,12,2015,Mount St and Presbury St,Baltimore,MD,Baltimore Police Department,Death in custody,Firearm,3544,0.1,99.4,0,14227,21083,41385,0.509435786,1,1,39.1
+Fridoon Rawshannehad,42,Male,White,April,30,2015,3200 Hancock St,San Diego,CA,San Diego Police Department,Gunshot,Firearm,2674,56.7,9.1,24,23467,31495,62962,0.500222356,1,1,23
+Garland Wingo,64,Male,White,March,18,2015,Lake Ella,Tallahassee,FL,Tallahassee Police Department,Gunshot,Firearm,1911,66.2,28.5,3.8,21261,28859,46369,0.622377019,2,1,36.6
+Garrett Gagne,22,Male,White,January,1,2015,Crowell Rd and Tipcart Dr,Chatham,MA,Chatham Police Department,Struck by vehicle,Unknown,3396,90,9.3,0,31641,67059,60526,1.107937085,4,4,7.7
+Garrett Sandeno,24,Male,White,May,27,2015,1701 Ridgecrest Rd,Edmond,OK,Edmond Police Department,Gunshot,Knife,5383,86.9,0.7,2.9,41377,104388,45215,2.308702864,5,5,1.3
+Gary Collins,63,Male,White,April,25,2015,H St NW and 20th Ave NW,Miami,OK,Oklahoma Highway Patrol,Gunshot,No,2650,69.1,0.8,2.6,18397,34336,36473,0.941408713,2,1,20.4
+Gary Kendrick,56,Male,White,March,27,2015,Shadytree Ln and Glen Arbor Dr,Encinitas,CA,San Diego County Sheriff s Department,Gunshot,No,4040,80.6,0.6,10.5,40529,96094,62962,1.526222166,5,5,7.5
+Gary Page,60,Male,White,March,21,2015,1790 E Voorhees St,Harmony,IN,Clay County Sheriff s Department,Gunshot,No,6460,96.3,0.3,0.2,22384,42348,46430,0.912082705,1,2,20.1
+Gilbert Fleury,54,Male,White,March,11,2015,Cliffs Landing Rd,Bay Minette,AL,Baldwin County Sheriff s Office,Gunshot,Firearm,6971,82.8,15,0.4,23683,48173,50221,0.959220247,3,3,8.3
+Glenn Lewis,37,Male,Black,February,25,2015,2201 NW 27th St,Oklahoma City,OK,Oklahoma City Police Department,Gunshot,No,5823,57.8,7.4,20.3,20405,29338,45215,0.648855468,2,1,31.3
+Gordon Kimbrell Jr,22,Male,White,April,9,2015,9265 Quail Roost Dr,Navarre,FL,Santa Rosa County Sheriff s Office,Gunshot,Firearm,12351,74.2,10.8,9.1,27745,60186,57703,1.043030692,3,4,15.8
+Gregory Smith,39,Male,White,March,30,2015,2293 N Main St,Crown Point,IN,Lake County Sheriff s Department,Taser,Firearm,7338,61.4,24.2,10.7,36727,65074,49035,1.327092893,5,4,8.8
+Grover Sapp Jr,45,Male,White,April,18,2015,1200 Beck Ave,Panama City,FL,Panama City Police Department,Gunshot,Knife,4239,84.3,4.6,6,21693,36273,47461,0.764269611,1,2,19.2
+Harry Davis,57,Male,White,May,27,2015,Sparta Hwy and Oconee Springs Rd,Eatonton,GA,Putnam County Sheriff s Department,Gunshot,No,3422,89,8.6,1.9,20760,44902,44764,1.003082834,NA,3,6.6
+Harvey Oates,42,Male,White,March,27,2015,Horseshoe Run Rd,Fort Ashby,WV,West Virginia State Police,Gunshot,Firearm,3255,99.6,0.2,0,26643,40541,31163,1.3009338,5,2,13.3
+Hashim Abdul-Rasheed,41,Male,Black,January,7,2015,4600 International Gateway,Columbus,OH,Columbus Police Department,Gunshot,Firearm,0,-,-,-,-,NA,50877,NA,NA,NA,-
+Hector Morejon,19,Male,Hispanic/Latino,April,23,2015,1100 Hoffman Ave,Long Beach,CA,Long Beach Police Department,Gunshot,No,4424,4,9.5,68.2,17223,30398,55909,0.543704949,1,1,42
+Herbert Hill,26,Male,Black,February,6,2015,1000 SW 62nd St,Oklahoma City,OK,Oklahoma City Police Department,Gunshot,Knife,3754,33.1,3,52.5,14932,25357,45215,0.560809466,1,1,37.4
+Howard Brent Means Jr,34,Male,White,February,15,2015,1110 Battleground Dr,Iuka,MS,Iuka Police Department,Gunshot,No,6466,97.3,0.8,0.3,18243,30857,32592,0.946766078,NA,1,16.1
+Howard Robbins,69,Male,White,January,16,2015,US-150,Stanford,KY,Stanford Police Department,Struck by vehicle,No,2143,94.2,3.4,1.1,16615,17917,33651,0.532435886,1,1,45.4
+Hue Dang,64,Female,Asian/Pacific Islander,March,9,2015,E Kennedy St,Hackensack,NJ,Bergen County Prosecutor s Department,Struck by vehicle,No,3358,44.1,18.9,32.7,27432,50625,83794,0.604160202,1,3,19.4
+Hung Trieu,35,Male,Asian/Pacific Islander,February,2,2015,13442 Bellaire Blvd,Houston,TX,Harris County Attorney s Department,Gunshot,No,7538,4.6,35.9,35.9,21306,41786,53137,0.78638237,2,2,28.3
+Ian Sherrod,40,Male,Black,February,28,2015,2300 block Main St,Tarboro,NC,Tarboro Police Department and Edgecombe Sheriff s Office,Gunshot,No,2929,33.2,62.2,2.8,20836,30588,33960,0.900706714,1,1,24.6
+Isaac Holmes,19,Male,Black,January,21,2015,4200 St Louis Ave,St Louis,MO,St Louis Metropolitan Police Department,Gunshot,Firearm,1325,0.2,99.8,0,14048,18828,34582,0.544445087,1,1,37.6
+Isaac Jimenez,27,Male,Hispanic/Latino,April,13,2015,3400 Lincoln Ave,Alton,IL,Alton Police Department,Gunshot,No,2665,86.2,9.8,1,18727,24946,53633,0.465124084,1,1,31.2
+Izzy Colon,37,Male,Hispanic/Latino,February,4,2015,4304 Pershing Pointe Pl,Orlando,FL,Orlando Police Department,Gunshot,Firearm,2537,16,10.6,72.4,17433,29410,47581,0.618103865,1,1,30.7
+Jacob Haglund,17,Male,White,February,2,2015,1600 3rd St,Bay City,MI,Bay City Police Department,Gunshot,Knife,1404,69.6,6.6,19.9,14504,19097,45376,0.420861248,1,1,40
+Jamalis Hall,39,Male,Black,March,27,2015,1000 block Mayflower Rd,Fort Pierce,FL,Saint Lucie County Sheriff s Office,Gunshot,Firearm,732,56.7,34.3,7.1,11338,11378,43413,0.262087393,1,1,54.2
+James Allen,74,Male,Black,February,7,2015,2701 Mary Ave,Gastonia,NC,Gastonia Police Department,Gunshot,Firearm,4049,33.3,43.7,22.3,15489,28696,42017,0.682961658,1,1,33.7
+James Barker,42,Male,White,January,8,2015,600 Second Ave,Salt Lake City,UT,Salt Lake City Police Department,Gunshot,Firearm,3745,87.2,0.1,5,30391,44638,60555,0.737148047,2,2,18.3
+James Bushey,47,Male,White,June,1,2015,2225 Texas Hwy 256 Loop,Palestine,TX,Palestine Police Department,Gunshot,No,4447,42,27.1,29.9,18238,31815,40653,0.78259907,NA,1,34.8
+James Cooper,43,Male,White,May,20,2015,3271 Dartmouth Dr,Charleston,SC,North Charleston Police Department,Gunshot,Knife,8668,85.5,11,0.7,38810,80891,50792,1.592593322,5,5,4
+James Damon,46,Male,White,March,9,2015,US-40,Craig,CO,Moffat County Sheriff s Office and Colorado Parks and Wildlife Law Enforcement,Gunshot,No,2892,94.4,0,4.2,39179,74510,53231,1.399748267,NA,4,7.7
+James Ellis,44,Male,White,March,21,2015,New York State Rte 31A,Clarendon,NY,Orleans County Sheriff s Office,Gunshot,Firearm,4696,96.5,0.7,1.6,30489,57747,48502,1.190610696,5,4,9.5
+James Greenwell,31,Male,White,March,11,2015,700 N Auburndale St,Memphis,TN,Memphis Police Department,Gunshot,Other,3636,36.5,57.6,0.3,22255,40721,46250,0.880454054,3,2,15.4
+James Horn Jr,47,Male,White,May,23,2015,SE 650th Rd,Green Ridge,MO,Pettis County Sheriff s Office,Gunshot,Firearm,4911,96.8,0.2,0.8,24705,49649,47223,1.051373271,4,3,16.4
+James Jimenez,41,Male,Hispanic/Latino,March,13,2015,1410 Hill Ave,Napa,CA,Napa Police Department,Gunshot,Firearm,3524,73.8,2.5,17.7,41719,90271,70443,1.281475803,4,5,8.6
+James Moore,43,Male,White,March,22,2015,5900 S Lewis Ave,Tulsa,OK,Tulsa Police Department,Struck by vehicle,Vehicle,2712,63.2,21.4,4.7,20213,31169,48181,0.646914759,1,1,21.1
+James Morris,40,Male,Unknown,May,31,2015,Juanipero Way and La Loma Dr,Medford,OR,Medford Police Department,Gunshot,Non-lethal firearm,5737,89.6,0,4.1,22947,40781,44005,0.926735598,2,2,20.2
+James Strong,32,Male,Black,May,28,2015,10900 E 109th Pl,Northglenn,CO,Northglenn Police Department,Gunshot,Firearm,6851,62.2,1.6,28.7,30906,55442,56270,0.985285232,NA,3,12.4
+Jamie Croom,31,Male,Black,March,10,2015,10064 Elm Grove Garden Dr,Baton Rouge,LA,US Marshals Service,Gunshot,Vehicle,1862,5.4,93.1,1.3,10219,21964,48506,0.452809962,1,1,48.4
+Jamison Childress,20,Male,White,March,19,2015,Kneuman Rd,Sumas,WA,US Border Patrol,Gunshot,Firearm,8196,79.4,0.3,17.1,22021,55432,51939,1.067251969,3,3,17.4
+Janisha Fonville,20,Female,Black,February,19,2015,Bellefonte Dr,Charlotte,NC,Charlotte-Mecklenburg Police Department,Gunshot,Firearm,2986,8.4,88,5.8,11184,18457,55444,0.332894452,1,1,68.2
+Jared Forsyth,33,Male,White,April,6,2015,11120 NW Gainesville Rd,Ocala,FL,Ocala Police Department,Gunshot,No,7471,70.9,19.6,7.1,19808,45125,39453,1.143766,4,3,14.1
+Jared Johnson,22,Male,Black,April,28,2015,8400 Chef Menteur Hwy,New Orleans,LA,New Orleans Police Department,Gunshot,Other,678,9.9,68.6,20.6,18029,20556,37146,0.553383944,1,1,57.1
+Jason Carter,41,Male,White,February,21,2015,298 Gavilan Canyon Rd,Rudioso,NM,New Mexico State Police and US Marshals Service,Gunshot,No,6941,58.6,0,40.4,18975,38893,43014,0.904193983,2,2,17.6
+Jason Champion,41,Male,Black,May,6,2015,I-95,Ridgefield Park,NJ,New Jersey State Police,Struck by vehicle,No,8810,35.3,19.7,29.2,37476,93091,83794,1.110950665,3,5,9.3
+Jason Evans,32,Male,White,April,12,2015,North Carolina Hwy 242 and Reeda Branch Rd,Salemburg,NC,Sampson County Sheriff s Office,Gunshot,Knife,5938,62.5,27.2,8.4,19868,33796,36496,0.92601929,2,1,17.2
+Jason Hendrix,16,Male,White,February,14,2015,1486 Hyde Park Rd,Essex,MD,Baltimore County Police Department,Gunshot,Firearm,5437,38,53,3.2,25865,38879,66486,0.584769726,1,2,11.3
+Jason Moland,29,Male,Black,March,30,2015,3700 Beyer Park Dr,Modesto,CA,Ceres Police Department,Gunshot,Knife,4296,72.5,1.2,19.3,28397,53097,49297,1.077083798,4,3,11.6
+Jason Smith,42,Male,White,March,20,2015,4604 Summit St,Columbus,OH,Columbus Division of Police,Gunshot,Unknown,2993,62.8,32.1,1.9,22750,42642,50877,0.838139041,3,2,13.4
+Javoris Washington,29,Male,Black,May,21,2015,SW 29th Ave and SW 29th Terrace,Fort Lauderdale,FL,Fort Lauderdale Police Department,Gunshot,Unknown,8033,14,60,26.6,19032,43496,51251,0.848685879,2,2,28.1
+Jeff Alexander,47,Male,White,March,17,2015,1125 1/2 19th St,Bakersfield,CA,Bakersfield Police Department,Gunshot,Firearm,1354,28.7,17.7,48.7,12297,18942,48552,0.390138408,1,1,46.2
+Jeffery Adkins,53,Male,Black,April,30,2015,200 Elm Rd,Emporia,VA,Greensville County Sheriff s Office and Virginia State Police,Gunshot,Other,4523,39.3,59.4,0,19423,40214,39697,1.013023654,NA,2,25.7
+Jeffery Kemp,18,Male,Black,April,17,2015,74th Street and Merrill Ave,Chicago,IL,Chicago Police Department,Gunshot,No,1781,1,95,0.7,26314,34771,54548,0.637438586,2,2,24.9
+Jeffrey Jackson,47,Male,White,March,22,2015,Kentucky Rte 92,Williamsburg,KY,Whitley County Sheriff s Department and Kentucky State Police,Death in custody,Firearm,6740,99.4,0.2,0,15289,27582,29769,0.926534314,3,1,33.2
+Jeffrey Nielson,34,Male,White,January,14,2015,120 Honey Berry Ct,Draper,UT,West Valley City Police Department and Draper Police Police Department,Gunshot,No,4748,83.3,2.2,8.7,30625,68125,60555,1.125010321,4,4,7.7
+Jeffrey Pitts,36,Male,White,May,31,2015,3500 Ebenezer Rd,Conyers,GA,Rockdale County Sheriff s office,Gunshot,Firearm,6084,56.8,34,4.4,29063,54146,52579,1.029802773,NA,3,8.1
+Jeffrey Surnow,63,Male,White,March,1,2015,Waikoloa Rd,Waikoloa Village,HI,Hawaii Police Department,Struck by vehicle,Firearm,7883,51.1,0.4,6.1,36696,70159,51250,1.368956098,5,4,7.3
+Jeremy Anderson,36,Male,White,March,31,2015,1600 Grass Lake Dr,Tampa Bay,FL,Tampa Bay Police Department [US Marshals Service Task Force],Gunshot,No,6993,64.1,8.1,24.7,35194,77275,49596,1.558089362,5,5,7.9
+Jeremy Kelly,27,Male,Black,March,25,2015,Dixie St,Johnsonville,SC,Johnsonville Police Department and Florence County Sheriff s Department (Swat),Gunshot,Firearm,6384,59.9,34,2,17493,32639,41910,0.778787879,2,1,24.1
+Jeremy Lett,28,Male,Black,February,5,2015,2400 W Tharpe St,Tallahassee,FL,Tallahassee Police Department,Gunshot,Vehicle,4498,56.5,35.1,2.9,19218,38658,46369,0.833703552,2,2,32.6
+Jermonte Fletcher,33,Male,Black,January,27,2015,265 Buffalo Ct,Columbus,OH,"Columbus Police Department, Ohio State Highway Patrol",Gunshot,No,4419,71,21,3.6,16616,33370,50877,0.655895591,2,1,26
+Jerome Caldwell,32,Male,Black,May,21,2015,83 Beaufain St,Charleston,SC,South Carolina State Law Enforcement Division,Gunshot,No,2875,85.7,9.4,2.7,37967,63750,50792,1.255118916,4,4,16.6
+Jerome Nichols,42,Male,White,February,23,2015,N Plymouth St,Allentown,PA,Catasauqua Police Department,Gunshot,Knife,3436,60.3,8.8,25.7,26001,46027,54923,0.838027784,2,3,11.3
+Jess Leipold,31,Male,White,April,9,2015,45 Major Bell Ln,Gettysburg,PA,Pennsylvania State Police,Gunshot,Firearm,4923,87.3,1.2,9.2,27355,60940,59492,1.024339407,3,4,13.9
+Jessica Hernandez,17,Female,Hispanic/Latino,January,26,2015,Newport St & E 25th Ave,Denver,CO,Denver Police Department,Gunshot,Firearm,4293,38.8,43.2,13.7,32602,54261,50313,1.078468785,3,3,11.8
+Jessica Uribe,28,Female,Unknown,February,28,2015,1113 W St Mary s Rd,Tuscon,AZ,Tucson Police Department,Gunshot,Firearm,6202,87.4,0,10.4,20860,37292,42987,0.867518087,2,2,20.9
+Jessie Williams,24,Male,White,May,26,2015,200 John Wesly Blvd,Bossier City,LA,FBI,Gunshot,Firearm,4302,50.9,31.2,7.9,20396,33898,53248,0.63660607,NA,1,26.4
+Jimmy Foreman,71,Male,Unknown,January,9,2015,422 SE 3rd St,England,AR,England Police Department,Gunshot,Firearm,2979,67.9,29.8,1.3,18750,31458,52582,0.598265566,1,1,32.9
+Jimmy Robinson Jr,51,Male,Black,February,4,2015,I-35,Waco,TX,Waco Police Department,Gunshot,No,5506,40.2,12.6,44.2,21988,33320,41922,0.794809408,2,1,36.1
+Joaquin Hernandez,28,Male,Hispanic/Latino,February,4,2015,E Baseline Rd and S 48th St,Phoenix,AZ,"Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",Gunshot,Other,4579,30.6,11.5,44.4,23243,35524,53596,0.662810658,2,2,39.7
+John Acree,53,Male,White,April,30,2015,812 Forest Hills Dr,Nashville,TN,Nashville Metropolitan Police Department,Gunshot,Firearm,3307,97.1,0.5,0.9,48922,135625,47335,2.865216014,5,5,1.1
+John Allen,54,Male,White,March,30,2015,841 Avenue A,Boulder City,NV,Boulder City Police Department,Gunshot,No,3042,90,0,6.7,23940,45979,52873,0.869612089,2,3,13.6
+John Ballard Gorman,45,Male,White,January,21,2015,3468 Casino Way,Robinsonville,MS,Mississippi Gaming Commission,Gunshot,Firearm,5683,20.6,74.2,2.2,22681,32899,31446,1.046206195,NA,1,31.4
+John Kaafi,33,Male,White,May,7,2015,8th St and N Orange Ave,Sarasota,FL,Sarasota Police Department,Unknown,Other,3522,90.5,5.1,2.2,27385,50852,49052,1.036695751,3,3,15.2
+John Marshall,48,Male,White,January,30,2015,"Billings Clinic, 2800 10th Ave N",Billings,MT,Billings Police Department,Gunshot,Firearm,3238,75.4,1.6,6.5,24076,38365,51342,0.747243972,1,2,21.6
+John O Keefe,34,Male,White,January,13,2015,Constitution Ave and San Mateo Blvd,Albuquerque,NM,Albuquerque Police Department,Gunshot,Firearm,3404,63.9,3.7,26.6,34326,54855,48801,1.124054835,4,3,7.3
+John Quintero,23,Male,Hispanic/Latino,January,3,2015,500 North Oliver Ave,Wichita,KS,Wichita Police Department,Gunshot,Knife,4020,45,34.2,15.7,22016,36701,49865,0.736007219,2,2,24.1
+John Sawyer,35,Male,White,February,5,2015,1200 Calimesa Blvd,Calimesa,CA,Riverside County Sheriff s Department,Gunshot,Firearm,5651,71.2,0,23.6,23378,43460,56529,0.76880893,2,2,16
+John Whittaker,33,Male,Hispanic/Latino,February,10,2015,1503 Medfra St,Anchorage,AK,Anchorage Police Department,Gunshot,Knife,2619,50.4,11.7,10.2,32902,51445,77454,0.664200687,1,3,18.4
+Johnathon Guillory,32,Male,White,January,18,2015,Greenland Park Dr,Maricopa,AZ,Maricopa Police Department,Gunshot,Firearm,2732,59.2,1.4,24.3,45333,83438,50027,1.667859356,5,5,7.1
+Jonathan Colley,52,Male,White,May,20,2015,2569 Raber Rd,Green,OH,Summit County Sheriff s Office,Gunshot,Firearm,5977,89.3,4.9,0.5,32466,63477,49669,1.278000362,4,4,15.3
+Jonathan Efraim,30,Male,White,April,22,2015,16802 Hillside Ave,New York,NY,New York Police Department,Gunshot,No,6081,1.5,16.6,36.3,16670,25894,57001,0.454272732,1,1,42
+Jonathan Harden,23,Male,White,February,13,2015,4023 University Pkwy,San Bernadino,CA,San Bernardino Police Department,Gunshot,Firearm,6230,32.9,18.3,39.2,26030,52656,54090,0.97348863,3,3,15
+Jonathan McIntosh,35,Male,White,May,19,2015,900 E Main St,Cabot,AR,Lonoke County Sheriff s Office and Arkansas Department of Community Correction,Gunshot,Knife,4227,79.9,4.4,10.4,22158,47051,52582,0.894811913,2,3,22.6
+Jonathan Paul,42,Male,Black,March,12,2015,300 E Mitchell St,Arlington,TX,Arlington Police Department,Death in custody,No,5947,41.5,9.1,37.7,14765,25625,56853,0.450723796,1,1,36.4
+Jonathan Pierce,37,Male,White,February,12,2015,"Port St Joe Police Station, 410 Williams Ave",Port St Joe,FL,Port St Joe Police Department,Gunshot,No,3660,67.9,30,0.1,20769,38176,40455,0.943665802,NA,2,16
+Jose Antonio Espinoza Ruiz,56,Male,Hispanic/Latino,January,23,2015,202 Avenue A,Levelland,TX,Levelland Police Department,Gunshot,No,4966,24.3,4.9,67.2,15511,31952,50565,0.631899535,1,1,29.3
+Jose Ceja,36,Male,Hispanic/Latino,January,15,2015,2007 Sousa Ct,Fairfield,CA,Fairfield Police Department,Gunshot,Disputed,4759,34.1,24.5,26,28062,45833,67177,0.682272206,1,3,23.5
+Jose Herrera,27,Male,Hispanic/Latino,April,22,2015,3000 W Cecil Ave,Delano,CA,California Department of Corrections and Rehabilitation,Gunshot,Firearm,13987,5.1,2.7,80,15480,48561,48552,1.000185368,3,3,20.1
+Joseph Biegert,30,Male,White,February,24,2015,1500 Plymouth Ln,Green Bay,WI,Green Bay Police Department,Gunshot,Firearm,4716,76.9,8.5,4,23633,33835,53119,0.636966057,1,1,13.6
+Joseph Caffarello,31,Male,White,January,7,2015,6100 Scott St,Rosemont,IL,Rosemont Police Department,Gunshot,Firearm,2680,79.9,3.8,10.3,27172,46048,54548,0.844173939,3,3,11.5
+Joseph Paffen,46,Male,White,February,8,2015,4501 Hoffner Ave,Orlando,FL,Orange County Sheriff s Office,Gunshot,Firearm,3748,29.6,13.1,56,17213,30069,47581,0.631953931,1,1,35.2
+Joseph Potts,51,Male,White,April,23,2015,182 N4430 Rd,Rufe,OK,Choctaw County Sheriff s Office and Hugo Police Department,Gunshot,Firearm,2808,76.4,1.7,3.5,19316,32661,30201,1.081454256,4,1,21.5
+Joseph Roy,72,Male,Unknown,May,7,2015,2853 Avalon Meadows Ct,Lawrenceville,GA,Gwinnett County Sheriff s Department,Gunshot,Firearm,7956,14.9,24.9,34.2,24332,60631,60445,1.003077178,3,4,14.1
+Joseph Slater,28,Male,White,April,15,2015,27767 Base Line,Highland,CA,Highland Police Department,Death in custody,Knife,3859,31.8,9.3,48.6,22628,50645,54090,0.936309854,3,3,11.8
+Joseph Tassinari,63,Male,White,March,24,2015,6600 W Christy Dr,Glendale,AZ,Glendale Police Department,Gunshot,Firearm,6257,63.1,9.4,18.8,30661,55133,53596,1.028677513,3,3,13
+Joseph Weber,28,Male,White,April,8,2015,Tasman Dr and Lawrence Expy,Sunnyvale,CA,Sunnyvale Police Department,Gunshot,Firearm,5153,27.6,0.7,26.2,30908,80962,91702,0.882881507,2,5,6.6
+Joshua Deysie,33,Male,Hispanic/Latino,April,29,2015,1400 E Harmony Ave,Mesa,AZ,Mesa Police Department,Gunshot,Knife,5442,52.8,1.8,41.3,22995,52661,53596,0.982554668,3,3,13.4
+Joshua Garcia,24,Male,Hispanic/Latino,January,26,2015,2500 FM1054,Tahoka,TX,Lynn County Sheriff s Office,Gunshot,Knife,1363,46.9,1,51.7,22734,36912,44375,0.831819718,NA,2,26
+Joshua Green,27,Male,White,April,28,2015,1408 W Main St,Marion,IL,"Marion Police Department, Illinois State Police and Williamson County Sheriff s Department",Gunshot,Firearm,4792,82.7,8.9,3.2,19474,32313,43125,0.749286957,1,1,22.4
+Justin Fowler,24,Male,Native American,March,19,2015,Indian Rte 13,Lukachukai,AZ,Navajo Police Department,Gunshot,Firearm,5808,4.3,0.3,2.7,13130,24637,31476,0.782723345,2,1,48.9
+Justin Tolkinen,28,Male,White,March,16,2015,400 White Bear Ave,St Paul,MN,St Paul Police Department,Gunshot,Firearm,4264,37.7,22.7,10.9,23280,47525,54247,0.876085313,2,3,18.1
+Justin Way,28,Male,White,May,11,2015,225 Presidents Cup Way,St Augustine,FL,St Johns County Sheriff s Office,Gunshot,Firearm,26826,79.1,4.6,9.2,40021,90191,64876,1.390205931,4,5,4.6
+Justus Howell,17,Male,Black,April,4,2015,2300 Gilead Ave,Zion,IL,Zion Police Department,Gunshot,Firearm,3111,26.6,40.7,26.2,21955,47723,77469,0.616027056,1,3,19.1
+Karen Janks,46,Female,White,April,23,2015,2661 Gravenstein Hwy S,Sebastopol,CA,Sonoma County Sheriff s Office,Gunshot,Vehicle,4082,83.3,1.5,10.9,33918,68926,63356,1.087915904,4,4,6.6
+Karl Taylor,52,Male,Black,April,14,2015,325 Riverside Dr,Fallsburg,NY,New York Department of Corrections and Community Supervision,Death in custody,Firearm,3535,45.7,21.4,28.2,19136,58859,48089,1.223959741,5,4,9.1
+Kavonda Payton,39,Male,Black,January,16,2015,138 Del Mar Cir,Aurora,CO,Aurora Police Department,Gunshot,Vehicle,3219,37.7,17.2,42.1,25279,48169,60651,0.794199601,2,3,20.3
+Kaylene Stone,49,Female,White,March,18,2015,6735 W Peoria Ave,Peoria,AZ,Glendale Police Department,Gunshot,Non-lethal firearm,3803,38.6,9.1,52.8,23974,34219,53596,0.638461826,1,1,17.6
+Kelvin Goldston,30,Male,Black,May,11,2015,6024 Wheaton Dr,Fort Worth,TX,Fort Worth Police Department,Gunshot,No,5863,61.9,20.5,18.4,29893,63646,56853,1.11948358,4,4,6
+Ken Cockerel,51,Male,White,April,3,2015,W Union Hills Dr and N 39th Ave,Phoenix,AZ,Phoenix Police Department,Gunshot,No,3817,75.3,3.5,14.3,23250,55233,53596,1.030543324,3,3,13
+Kendre Alston,16,Male,Black,March,19,2015,1800 Helena St,Jacksonville,FL,Jacksonville Sheriff s Office,Gunshot,Firearm,4294,5.2,93.6,0.7,14754,23880,48323,0.494174617,1,1,36.4
+Kenneth Brown,18,Male,White,January,4,2015,NA,Guthrie,OK,Oklahoma State Police,Gunshot,Non-lethal firearm,3014,68,17.4,6.4,16463,41901,53591,0.781866358,2,2,33.3
+Kenneth Buck,22,Male,Hispanic/Latino,January,5,2015,E Knox Rd,Chandler,AZ,Chandler Police Department,Gunshot,No,4378,60.2,4,30.3,32211,53346,53596,0.995335473,3,3,8.5
+Kenneth Dothard,40,Male,Black,May,28,2015,900 Bankhead Hwy,Carrollton,GA,Carrolton Police Department,Gunshot,Firearm,8081,67.6,26.3,4.3,25418,43517,46147,0.943008213,NA,2,17
+Kenneth Kreyssig,61,Male,White,February,10,2015,645 Smyrna Center Rd,Smyrna,ME,Maine State Troopers and Aroostook County Sheriff s Department,Gunshot,Knife,3045,97.2,0.3,0.6,18760,40288,37855,1.064271563,4,2,17.9
+Kenneth Mathena,52,Male,White,May,2,2015,30 Malvern Ln,Smyrna,DE,Smyrna Police Department,Gunshot,Firearm,13561,64.4,24.6,5.2,34176,66998,55149,1.214854304,5,4,6.4
+Kent Norman,51,Male,White,February,21,2015,1800 Heather Cir,Indianapolis,IN,Indianapolis Metropolitan Police Department,Gunshot,Firearm,6142,61.8,29.3,6,25226,43110,42334,1.01833042,4,2,15.1
+Kevin Allen,36,Male,Black,May,29,2015,355 Valley Brook Ave,Lyndhurst,NJ,Lyndhurst Police Department,Gunshot,Firearm,4702,75.3,1.1,17.3,36305,67109,83794,0.800880731,2,4,4.5
+Kevin Norton,36,Male,White,May,3,2015,210 W 300 N,Roosevelt,UT,Roosevelt Police Department,Gunshot,No,7753,79.9,0,10.8,31491,60957,57683,1.05675849,NA,4,12.4
+Kimber Key,59,Male,White,April,21,2015,107 White Falls Dr,Columbia,SC,Lexington County Sheriff s Office,Gunshot,No,3276,71,17.6,2.7,41145,82104,54061,1.518728843,5,5,14.5
+Kristiana Coignard,17,Female,White,January,22,2015,"Longview Police Department, 302 W Cotton St",Longview,TX,Longview Police Department,Gunshot,Firearm,4045,44.8,34.1,19.7,14332,26458,45525,0.581175178,1,1,27.4
+Kyle Baker,18,Male,White,May,28,2015,2800 Longmeadow Dr,Trenton,MI,Trenton Police Department,Gunshot,No,3088,92.3,1.3,5.7,26583,60795,41184,1.47618007,5,4,6
+Larry Hostetter,41,Male,White,February,9,2015,200 Jordan Dr,Nocona,TX,Nocona Police Department,Gunshot,Other,1683,90.5,0.6,7.6,23750,45500,44231,1.028690285,2,3,10.3
+Larry Kobuk,33,Male,Native American,January,28,2015,"Corrections Department, 1400 E 4th Ave",Anchorage,AK,Anchorage Corrections Department,Death in custody,Knife,5733,25.5,11.1,13.6,20075,41268,77454,0.532806569,1,2,20.2
+Lavall Hall,25,Male,Black,February,15,2015,19157 NW 3rd Ave,Miami Gardens,FL,Miami Gardens Police Department,Gunshot,Firearm,4945,5.9,83,9.5,26067,52453,43100,1.217006961,4,3,8.2
+Ledarius Williams,23,Male,Black,February,3,2015,Minnesota Ave and Meramec St,St Louis,MO,St Louis Metropolitan Police Department,Gunshot,No,3641,28.5,59.4,6.1,17693,33095,34582,0.957000752,3,1,38.7
+Leslie Sapp III,47,Male,Black,January,6,2015,Redlyn St,Pittsburgh,PA,"US Marshals Service, Pennsylvania State Police, Allegheny County Sheriff s Office",Gunshot,Firearm,4667,34.5,59.4,1.4,18978,32625,51366,0.635147763,2,1,30.5
+Lester Brown,58,Male,White,March,9,2015,85 Almost Home Rd,Penrose,NC,"North Carolina Alcohol Law Enforcement, Transylvania County Sheriff s Office, Homeland Security",Gunshot,Firearm,5006,91.8,5.1,1.5,19645,36583,41781,0.875589383,2,2,14.8
+Lewis Lembke,47,Male,White,January,2,2015,4505 SW Masters Loop,Aloha,OR,Washington County Sheriff s Office,Gunshot,No,4978,69.3,0,19.8,29959,56020,64180,0.872857588,2,3,8.8
+Lionel Young,34,Male,Black,May,10,2015,950 Nalley Rd,Landover,MD,Prince George s County Sheriff s Office,Gunshot,Firearm,3715,1.6,92.7,5.1,35089,84028,73623,1.141328118,4,5,3.5
+Loren Simpson,28,Male,White,January,8,2015,3618 White Buffalo Rd,Huntley,MT,Yellowstone County Sheriff s Office,Gunshot,Firearm,7864,87.5,0.1,3.3,28125,68949,51342,1.342935608,5,4,9.5
+Lorenzo Hayes,37,Male,Black,May,13,2015,N Addison St and E Sanson Ave,Spokane,WA,Spokane Police Department,Death in custody,No,4502,75.4,8.6,4.9,17901,32143,49233,0.652875104,1,1,24.4
+Louis Becker,87,Male,White,January,14,2015,New York State Rte 23 and Cairo Junction Rd,Catskill,NY,New York State Troopers,Struck by vehicle,Firearm,3947,91,0.6,0.8,27077,52165,49655,1.050548787,4,3,6.5
+Lue Vang,39,Male,Asian/Pacific Islander,April,22,2015,4100 Eldorado Springs Dr,Boulder,CO,Boulder County Sheriff s Office,Gunshot,Firearm,4630,92.7,0.1,1.6,54036,111464,67956,1.640237801,5,5,7.7
+Luis Chavez-Diaz,27,Male,Hispanic/Latino,April,29,2015,1624 Hood Franklin Rd,Elk Grove,CA,California Department of Fish and Wildlife,Gunshot,Knife,4192,44.7,0,41.7,28730,60833,55064,1.104768996,3,4,14.7
+Luis Molina Martinez,35,Male,Hispanic/Latino,April,21,2015,3400 Manitou Ave,Los Angeles,CA,Los Angeles Police Department,Gunshot,Firearm,4371,2.4,2,72,12376,23075,55909,0.412724248,1,1,50.6
+Mack Long,36,Male,Black,April,12,2015,E 31st St and N Sherman Dr,Indianapolis,IN,Indianapolis Metropolitan Police Department,Gunshot,Vehicle,1471,1.4,87.2,4.5,20072,25677,42334,0.606533755,1,1,38.2
+Marcus Golden,24,Male,Black,January,14,2015,261 E University Ave,St Paul,MN,St Paul Police Department,Gunshot,Vehicle,2391,18.9,42.3,5.4,11425,18156,54247,0.334691319,1,1,48.9
+Marcus Wheeler,26,Male,Black,May,20,2015,3057 Martin Ave,Omaha,NE,Omaha Police Department,Gunshot,No,4283,56.4,31.8,4.4,22537,38359,53325,0.719343647,2,2,18.7
+Mario Jordan,34,Male,Black,January,14,2015,Sir Gawaine Dr,Chesapeake,VA,Chesapeake City Police Department,Gunshot,Firearm,7340,19.2,75.3,4.8,26119,50664,69743,0.726438496,2,3,10.8
+Mark Adair,51,Male,White,April,15,2015,Hitt St and Elm St,Columbia,MO,Columbia Police Department and University of Missouri Police,Gunshot,Other,2917,69.4,4.4,3.5,5457,10931,48627,0.224792811,1,1,69.4
+Mark Cecil Hawkins,49,Male,White,April,24,2015,1940 Turner Rd SE,Salemburg,OR,Salem Police Department,Gunshot,Firearm,4083,62,0.4,31.7,17474,31863,46885,0.679599019,1,1,33.8
+Mark Farrar,41,Male,White,May,15,2015,1806 16th Ave,Rockford,IL,Rockford Police Department,Gunshot,Firearm,5199,49.7,16.5,26.3,15542,26032,47072,0.553025153,1,1,39.1
+Mark Smith,54,Male,White,April,8,2015,W 141st St and 257th W Ave,Kellyville,OK,Creek County Sheriff s Department and Bristow Police Department,Gunshot,No,3954,80.7,0.7,1.4,24858,45615,43026,1.060172919,3,3,8.9
+Markell Atkins,36,Male,Black,February,4,2015,3800 Vernon Ave,Memphis,TN,Shelby County Sheriff s Department [US Marshals Service Task Force],Gunshot,Firearm,6876,39.8,7,50.1,19029,32162,46250,0.695394595,3,1,34.3
+Markus Clark,26,Male,Black,May,20,2015,600 NW 27th Ave,Fort Lauderdale,FL,Broward Sheriff s Office,Unknown,Firearm,3441,5.8,92.8,2.5,13143,22712,51251,0.443152329,1,1,51.4
+Matautu Nuu,35,Male,Asian/Pacific Islander,January,28,2015,Martinique Ct,Stockton,CA,Stockton Police Department,Gunshot,Firearm,3140,32.8,7.8,35.5,17026,41385,53380,0.775290371,2,2,29.1
+Matthew Ajibade,22,Male,Black,January,1,2015,1050 Carl Griffin Dr,Savannah,GA,Chatham County Sheriff s Office,Death in custody,Other,5502,47.5,28.2,22.6,25190,33545,45794,0.732519544,2,1,30.1
+Matthew Belk,27,Male,White,February,13,2015,2420 Terry Rd,Huntingdon,TN,Carroll County Sheriff s Office,Gunshot,Other,4517,88.5,9.9,0.7,19400,32522,35049,0.927900939,2,1,18.1
+Matthew Coates,42,Male,White,May,16,2015,2010 61st St,Sacramento,CA,Sacramento Police Department,Gunshot,Firearm,5372,62.1,7.1,15.5,30332,48188,55064,0.875127125,2,3,31.1
+Matthew Hoffman,32,Male,White,January,4,2015,630 Valencia St,San Francisco,CA,San Francisco Police Department,Gunshot,Other,5731,73.5,0.9,11.8,64657,115750,75604,1.531003651,5,5,8.6
+Matthew Lundy,32,Male,White,February,17,2015,3800 Canfield Rd,Eaton Rapids Township,MI,Eaton County Sheriff s Office,Gunshot,Other,3021,94.7,0.9,3.4,33875,71417,54115,1.319726508,5,4,3.3
+Matthew Metz,25,Male,White,March,3,2015,College Ave and Curry Rd,Tempe,AZ,Tempe Police Department,Gunshot,Firearm,2485,71.7,2.3,9.8,25839,44097,53596,0.822766624,2,2,20.5
+Meagan Hockaday,26,Female,Black,March,27,2015,500 W Vineyard Ave,Oxnard,CA,Oxnard Police Department,Gunshot,No,3172,16.1,2.6,70.9,29511,65552,76544,0.856396321,2,4,8.9
+Michael Asher,53,Male,White,May,4,2015,Doctors Row,Chavies,KY,Kentucky State Police,Gunshot,No,2911,97.2,1.3,0,21506,36782,33528,1.097053209,4,2,18.7
+Michael Casper,26,Male,White,February,16,2015,Malad St and Gourley St,Boise,ID,Boise Police Department,Gunshot,Knife,5726,74.9,2.3,12,20296,33611,55210,0.60878464,1,1,29.6
+Michael Foster,40,Male,White,April,19,2015,105 Hinkle St,Wilmore,KY,Wilmore Police Department,Gunshot,Non-lethal firearm,8064,90,1.8,2.3,17696,50265,49024,1.025314132,4,3,15.4
+Michael Gallagher,55,Male,White,May,10,2015,100 Whitfield St,Enfield,NC,Enfield Police Department,Taser,Firearm,5329,9.7,89.1,0,13939,29256,32329,0.904946024,2,1,31.5
+Michael Goebel,29,Male,White,January,14,2015,600 Spring Dr,Robertsville,MO,St Louis County Police Department,Gunshot,No,7585,97.1,1.1,0.3,27917,55279,48857,1.131444829,5,3,12
+Michael Ireland,31,Male,White,February,18,2015,1400 N Marion Ave,Springfield,MO,Springfield Police Department,Gunshot,No,2816,93.4,2,1.3,13929,26613,40337,0.659766468,1,1,26.5
+Michael Kocher Jr,19,Male,White,January,3,2015,2600 Kaumualii Hwy,Kaumakani,HI,Kauai Police Department,Struck by vehicle,Knife,4189,15,0.4,11.1,30533,72000,62052,1.160317153,5,4,5.4
+Michael Lemon,57,Male,Unknown,April,8,2015,11936 California Rte 178,Lake Isabella,CA,Kern County Sheriff s Office,Taser,Firearm,4466,87.2,0.2,3.6,18472,30119,48552,0.620345197,1,1,28.2
+Michael Lowrey,40,Male,White,May,22,2015,1534 N Center Ave,Somerset,PA,Pennsylvania State Police,Gunshot,Knife,6530,77.2,17.8,3.7,20297,42346,43597,0.971305365,2,2,11.2
+Michael McKillop,35,Male,White,March,8,2015,Northtowne Plaza Shopping Center,Claymount,DE,Delaware State Police,Gunshot,Firearm,4480,40.1,45.6,3.1,30723,36519,64537,0.565861444,1,2,15.5
+Michael Murphy,35,Male,White,May,7,2015,I-84,Beacon,NY,Beacon Police Department,Gunshot,Firearm,4865,65.6,11.1,19.8,23011,49318,72525,0.680013788,1,3,12.6
+Michael Rodriguez,39,Male,Hispanic/Latino,January,5,2015,818 31st St,Evans,CO,Evans Police Department,Gunshot,Firearm,4129,33.3,0.7,61.8,18022,27500,57180,0.480937391,1,1,42.7
+Michael Smashey,37,Male,White,February,23,2015,4817 W Mceachern Woods Dr,Powder Springs,GA,Cobb County Sheriff s Office,Gunshot,No,5456,78,15.7,2.6,49269,96625,63920,1.511655194,4,5,3
+Miguel Anguel de Santos-Rodriguez,36,Male,Hispanic/Latino,January,21,2015,Chapeí_±o Rd,Roma,TX,US Border Patrol,Gunshot,Firearm,2377,3.2,0,96.8,14457,26346,24927,1.056926225,3,1,33.1
+Millard Tallant III,62,Male,White,May,26,2015,17500 Tester Rd,Snohomish,WA,Snohomish County Sheriff s Office,Gunshot,Knife,5169,58.2,9.8,24.8,11405,41000,68381,0.599581755,1,2,19.1
+Monique Deckard,43,Female,Black,March,8,2015,900 S Euclid St,Anaheim,CA,Anaheim Police Department,Gunshot,Firearm,5062,23.3,0.9,68,21008,45353,75422,0.601323221,1,3,11.2
+Mychael Lynch,32,Male,White,March,23,2015,707 W 13th St,Vancouver,WA,Clark County Sheriff s Department,Death in custody,Knife,2150,79,4.1,9.4,15892,28281,58225,0.485719193,1,1,27.4
+Nadir Soofi,34,Male,Asian/Pacific Islander,May,3,2015,4999 Naaman Forest Blvd,Garland,TX,Garland Police Department,Gunshot,Vehicle,4775,34.7,16.3,14.6,31009,49973,49481,1.009943211,3,3,9.2
+Naeschylus Vinzant,37,Male,Black,March,6,2015,16200 E 12th Ave,Aurora,CO,Aurora Police Department,Gunshot,No,6415,26.2,24,41,21082,38293,60651,0.631366342,1,2,23.9
+Natasha McKenna,37,Female,Black,February,8,2015,"Fairfax County Adult Detention Center, 10520 Judicial Dr",Fairfax,VA,Fairfax County Sheriff s Office,Taser,No,7408,58.6,17.8,7.9,5688,138750,110292,1.258024154,4,5,5.6
+Nathan Massey,33,Male,White,January,15,2015,Becky Sue St,Ville Platte,LA,Evangeline Parish Sheriff s Office,Gunshot,Knife,1977,95.9,2,0,21831,43056,31832,1.352601156,4,2,18.5
+Nehemiah Fischer,35,Male,White,May,29,2015,Hectorville Rd and Bixby Rd,Mounds,OK,Oklahoma Highway Patrol,Gunshot,No,6888,73.5,5.6,4.5,25231,44573,39156,1.13834406,NA,2,14.1
+Neil Seifert,40,Male,White,March,27,2015,N Main St,Webster,MA,Webster Police Department,Gunshot,No,3776,83.3,2.2,6.6,21131,35507,65223,0.544393849,1,2,16.7
+Nephi Arriguin,21,Male,Black,May,7,2015,17200 Pires Ave,Cerritos,CA,Los Angeles County Sheriff s Department,Gunshot,Firearm,5931,14.5,4.5,7.9,42774,101818,55909,1.821137921,5,5,1.5
+Nicholas Brickman,30,Male,White,January,7,2015,SE 4th St and Scott Ave,Des Moines,IA,Des Moines Police Department,Gunshot,Firearm,3687,49.7,13.6,32.2,16071,29375,59018,0.497729506,1,1,31.3
+Nicholas Thomas,23,Male,Black,March,24,2015,2475 Cumberland Pkwy SE,Atlanta,GA,Smyrna Police Department,Gunshot,Knife,3574,37,45.7,10.6,45795,53891,63920,0.843100751,2,3,6.9
+Nicolas Tewa,26,Male,Native American,January,27,2015,4130 N Black Canyon Hwy,Phoenix,AZ,Phoenix Police Department,Gunshot,No,4829,16.3,12,55.4,16012,17699,53596,0.330229868,1,1,57.1
+Nikki Burtsfield,39,Female,White,May,20,2015,N Garner Lake Rd and Vaquero Ave,Gillette,WY,Campbell County Sheriff s Office,Gunshot,Firearm,8988,94.4,0.9,3.1,42519,76732,79488,0.9653281,3,5,8.7
+Norman Cooper,33,Male,Black,April,19,2015,4800 Legend Well Dr,San Antonio,TX,San Antonio Police Department,Taser,Vehicle,4542,46.4,5.3,43.2,40693,71272,50112,1.422254151,4,4,5.2
+Nuwnah Laroche,34,Female,Black,May,6,2015,I-95,Ridgefield Park,NJ,New Jersey State Police,Struck by vehicle,Firearm,8810,35.3,19.7,29.2,37476,93091,83794,1.110950665,3,5,9.3
+Omarr Jackson,37,Male,Black,January,8,2015,Lasalle St and Josephine St,New Orleans,LA,New Orleans Police Department,Gunshot,Firearm,1345,2.1,84.2,5.4,9353,15293,37146,0.411699779,1,1,54.6
+Orlando Lopez,26,Male,Hispanic/Latino,January,25,2015,Troy Ave and Oakshire Ln,Pueblo,CO,Pueblo Police Department,Gunshot,Firearm,5747,42.6,3.2,52.9,22057,34987,41777,0.837470378,3,2,22.1
+Pablo Meza,24,Male,Hispanic/Latino,January,17,2015,E 6th St and Mateo St,Los Angeles,CA,Los Angeles Police Department,Gunshot,No,3040,41.8,8.7,8.8,39531,67542,55909,1.208070257,4,4,25.5
+Patrick Wetter,25,Male,White,January,6,2015,800 Howard St,Stockton,CA,Stockton Police Department,Gunshot,Other,7323,5.9,14.5,62.7,15628,44228,53380,0.828550019,2,2,29.4
+Paul Anderson,31,Male,Black,April,4,2015,150 E Lincoln Ave,Anaheim,CA,Anaheim Police Department,Gunshot,Knife,9738,15.7,1.6,69.1,25755,51901,75422,0.688141391,1,3,22.4
+Paul Campbell,49,Male,White,January,19,2015,69 Prospect Hill Dr,Weymouth,MA,Weymouth Police Department,Gunshot,Firearm,3902,94.5,0.2,0.2,36062,66036,84916,0.777662631,2,4,4.7
+Paul Johnson,59,Male,White,February,4,2015,7100 Pine Ave,Chino,CA,Corona Police Department,Gunshot,No,8960,28.1,7.1,32.9,37453,97955,54090,1.810963209,5,5,6
+Pedro  Pete  Juan Saldivar,50,Male,Hispanic/Latino,February,17,2015,US-90 and Charles Dr,Del Rio,TX,Del Rio Police Department and Val Verde County Sheriff s Office,Gunshot,No,7556,23.5,1.3,72.3,17402,42026,40450,1.038961681,4,2,24.5
+Philip Conley,37,Male,White,March,21,2015,904 Admiral Callaghan Ln,Vallejo,CA,Vallejo Police Department,Gunshot,Firearm,7099,10.6,23,7.8,34516,91573,67177,1.36316001,5,5,5.6
+Phillip Burgess,28,Male,White,April,9,2015,477 Belcher Rd,Boiling Springs,SC,Spartanburg County Sheriff s Office,Gunshot,Other,6309,69.7,16.6,3.3,23844,54784,42919,1.276450989,5,3,9.7
+Phillip Garcia,26,Male,Hispanic/Latino,January,16,2015,12810 Gulf Fwy,Houston,TX,Houston Police Department,Gunshot,Firearm,2802,29.8,25.3,34.5,40387,53244,53137,1.002013663,3,3,6.3
+Phillip Watkins,23,Male,Black,February,11,2015,1300 Sherman St,San Jose,CA,San Jose Police Department,Gunshot,Firearm,4866,7.2,1.9,83.4,22132,39892,91702,0.435017775,1,2,32.2
+Phillip White,32,Male,Black,March,31,2015,118 W Grape St,Vineland,NJ,Vineland Police Department,Death in custody,Firearm,7621,5.1,21.3,77.8,17401,40075,50750,0.789655172,2,2,34.3
+Quincy Reed Reindl,24,Male,White,January,15,2015,Nesbitt Ave S and 99th St W,Bloomington,MN,Bloomington Police Department,Gunshot,Knife,6185,86.7,3.3,3.1,43458,82702,64403,1.284132727,4,5,6.9
+Ralph Willis,42,Male,White,January,29,2015,604 E Maple Ave,Stillwater,OK,Stillwater Police Department,Gunshot,Firearm,4908,76.8,8.5,7.3,14964,32054,36812,0.870748669,3,1,34
+Randall Torrence,34,Male,White,May,27,2015,1225 Quindaro Blvd,Kansas City,KS,Kansas City KS Police Department,Taser,Firearm,1990,1.1,60.3,37.2,15556,24929,39402,0.63268362,1,1,45.3
+Raymond Kmetz,68,Male,White,January,26,2015,4401 Xylon Ave N,Minneapolis,MN,Minneapolis Police Department,Gunshot,Other,4836,61.7,9.8,16.3,28690,46519,64403,0.722311072,2,3,8.7
+Reginald McGregor,31,Male,Black,April,21,2015,200 North Retta St,Fort Worth,TX,Fort Worth Police Department,Gunshot,Firearm,4321,19.6,3.5,74.1,18174,33750,56853,0.59363622,1,1,26.7
+Richard  Buddy  Weaver,83,Male,White,April,12,2015,Sleepy Hollow Dr and Misty Glen Dr,Newalla,OK,Oklahoma City Police Department,Gunshot,No,5410,82.8,1,5.2,25034,56875,54989,1.034297769,3,4,8
+Richard Carlin,35,Male,White,February,13,2015,414 Rehr St,Reading,PA,Pennsylvania State Police,Gunshot,Firearm,4017,37.4,10.7,47.7,20761,29707,55170,0.538462933,1,1,36.6
+Richard Castilleja,29,Male,Hispanic/Latino,March,14,2015,2615 Mossrock,San Antonio,TX,San Antonio Police Department,Gunshot,Firearm,3679,24.2,5.6,70.2,26047,45208,50112,0.902139208,3,3,21.7
+Richard Davis,50,Male,Black,May,31,2015,Tremont St and Morgan St,Rochester,NY,Rochester Police Department,Taser,Firearm,1271,0.6,95.6,3.9,11558,18833,52394,0.359449555,NA,1,49.9
+Richard Hanna,56,Male,Unknown,April,6,2015,400 Steuber Rd,Tehachapi,CA,Tehachapi Police Department,Gunshot,Firearm,6657,72.8,0.3,26.3,26741,56698,48552,1.167778876,4,4,11.5
+Richard McClendon,43,Male,White,January,13,2015,600 Olive St,Jourdanton,TX,Jourdanton Police Department,Gunshot,Firearm,6033,47.6,0.3,50.6,26101,48735,47543,1.02507204,4,3,10
+Richard Reed,38,Male,White,April,10,2015,SW Wanamaker Rd and I-70,Topeka,KS,Topeka Police Department,Gunshot,Firearm,5378,89.6,3.4,4.5,28781,38608,48451,0.796846298,3,2,10.4
+Richard White,63,Male,Black,March,20,2015,"Louis Armstrong New Orleans International Airport, 900 Airline Dr",Kenner,LA,Jefferson Parish Sheriff s Office,Gunshot,Disputed,0,-,-,-,-,NA,48261,NA,NA,NA,-
+Ricky Hall,27,Male,Black,March,30,2015,NA,Fort Meade,MD,NSA Police Department,Gunshot,Firearm,1610,58.6,25.5,10,20995,79844,87430,0.913233444,2,5,3.2
+Roark Cook,36,Male,White,May,4,2015,3320 W 9th Ave,Kennewick,WA,Kennewick Police Department/Tri-City Swat Team,Gunshot,Firearm,4284,73.6,0,24.2,22348,42759,60485,0.706935604,1,2,20.5
+Robert Box,55,Male,White,May,29,2015,108 Fir Canyon Rd,Grants Pass,OR,Oregon State Police,Gunshot,Knife,2186,85.8,0.5,6,23281,48077,37733,1.274136697,NA,3,16
+Robert Burdge,36,Male,White,March,19,2015,200 Trask St,Bakersfield,CA,Bakersfield Police Department (Swat),Gunshot,Firearm,3921,36.3,2.3,59.8,21115,55093,48552,1.134721536,4,3,23.1
+Robert Edwards,68,Male,White,January,14,2015,500 Sycamore St,Lake Jackson,TX,Lake Jackson Police Department,Gunshot,No,6016,62.3,6.1,30,27875,54329,67603,0.803647767,2,3,8.6
+Robert Francis Mesch,61,Male,White,January,23,2015,120 W Slaughter Ln,Austin,TX,Austin Police Department,Gunshot,No,7456,53.3,6.4,34.6,31969,59435,58025,1.024299871,3,4,11.5
+Robert Frost,46,Male,White,May,5,2015,1847 Bob White Blvd,Pulaski,VA,Pulaski Police Department,Gunshot,No,3721,82.5,10.5,0.4,20153,31898,44312,0.719850153,1,1,21.8
+Robert Kohl,47,Male,White,February,23,2015,175 Bass Pro Blvd,Denham Springs,LA,Denham Springs Police Department,Gunshot,Firearm,5375,86.8,1.5,10.6,30540,70469,56811,1.240411188,5,4,10.8
+Robert Rooker,26,Male,White,March,29,2015,Fields Hollow Rd,Peebles,OH,Pike County Sheriff s Department,Gunshot,Vehicle,4430,95.5,0,0,18133,46007,42165,1.091118226,5,3,18.2
+Robert Washington,37,Male,Black,April,1,2015,14200 Kornblum Ave,Hawthorne,CA,Hawthorne Police Department,Gunshot,No,2666,27.6,5.5,46.4,32242,83258,55909,1.489169901,5,5,7.4
+Roberto Leon,22,Male,Hispanic/Latino,March,17,2015,Elkhorn Blvd and Dry Creek Rd,Rio Linda,CA,California Highway Patrol,Gunshot,Knife,4315,49,2.5,22.5,30472,56458,55064,1.025315996,3,4,11.2
+Roberto Ornelas,18,Male,Hispanic/Latino,January,1,2015,39 N Marlin Ave,Key Largo,FL,Monroe County Sheriff s Office,Unknown,Knife,2355,75.2,1.5,21.7,25977,54219,53607,1.011416419,3,3,16.4
+Roberto Rodriguez,39,Male,Hispanic/Latino,April,8,2015,4th St and Mathews St,Los Angeles,CA,Los Angeles Police Department,Gunshot,No,5158,1.7,0,94.3,14162,25792,55909,0.461321075,1,1,38.5
+Rodney Biggs,49,Male,White,February,26,2015,US-49 and Middle Driveway,Gulfport,MS,Gulfport Police Department,Gunshot,Other,2923,9.9,85.3,4.8,12930,19031,43124,0.441308784,1,1,47.1
+Rodney Walker,23,Male,Black,January,16,2015,W 11th St,Tulsa,OK,Department of Veteran Affairs,Gunshot,Firearm,3300,52.2,23.8,10.1,16953,34432,48181,0.71463855,2,2,26.7
+Rodolfo Velazquez,47,Male,Hispanic/Latino,April,16,2015,West Lerdo Hwy and South Wall St,Shafter,CA,Shafter Police Department,Gunshot,Firearm,4932,30.1,1.4,66.5,21130,49076,48552,1.010792552,3,3,18.8
+Ronald Sneed,32,Male,Black,January,7,2015,300 Yaupon St,Freeport,TX,Freeport Police Department,Gunshot,Knife,6118,47.3,8.8,43.7,24236,48635,67603,0.719420736,2,3,18.4
+Ronell Wade,45,Male,Black,May,17,2015,15746 Union Ave,Harvey,IL,Harvey Police Department,Gunshot,No,4279,9.5,67,21.7,19151,33028,54548,0.605485077,2,1,30.2
+Roy Day,51,Male,White,February,14,2015,Gale St,Laredo,TX,Laredo Police Department,Gunshot,Knife,3999,2.3,0.8,97.1,20900,42782,39449,1.084488834,4,2,17.4
+Rubí_©n Garcí__a Villalpando,31,Male,Hispanic/Latino,February,20,2015,2500 Texas Hwy 121,Euless,TX,Grapevine Police Department,Gunshot,Vehicle,5917,68.9,10.7,10.7,43062,79821,56853,1.403989235,5,5,2.9
+Russell Sharrer,54,Male,White,February,27,2015,1016 N 4th Ave,Pasco,WA,Franklin County Corrections Division,Death in custody,Firearm,6747,16.5,0.9,78.7,16558,28537,55177,0.517190134,1,1,35.9
+Ryan Burgess,31,Male,White,March,11,2015,2241 Lucille Ave,Kingman,AZ,Kingman Police Department,Gunshot,Firearm,6001,80.9,0.2,11.9,21374,42484,39200,1.08377551,4,2,16.2
+Salome Rodriguez Jr,23,Male,Hispanic/Latino,March,13,2015,184 W 3rd St,Pomona,CA,Los Angeles Police Department,Gunshot,Knife,3755,13,10.4,61.1,15632,26970,55909,0.482391028,1,1,39.3
+Salvador Figueroa,29,Male,Hispanic/Latino,January,11,2015,"Circle K, 1301 N Eastern Ave",Las Vegas,NV,North Las Vegas Police Department,Gunshot,No,4993,8.5,6.3,84.5,19746,41875,52873,0.791992132,2,2,22.9
+Salvador Muna,28,Male,Hispanic/Latino,February,4,2015,E Baseline Rd and S 48th St,Phoenix,AZ,"Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",Gunshot,Firearm,4579,30.6,11.5,44.4,23243,35524,53596,0.662810658,2,2,39.7
+Sam Holmes,31,Male,Black,May,8,2015,University Ave NE and I-694,Fridley,MN,Lino Lakes Police Department,Gunshot,No,2459,57.8,15.5,2.2,23143,47174,70380,0.670275646,1,3,10.6
+Santos  Cuate  Cortez Hernandez,24,Male,Hispanic/Latino,April,20,2015,NA,Mission,TX,Hidalgo County Sheriff s Office,Gunshot,Firearm,5449,4.8,0.4,94.8,15812,32071,34146,0.939231535,3,1,30.2
+Sawyer Flache,27,Male,White,February,8,2015,Texas Hwy 71 and Silvermine Dr,Austin,TX,Austin Police Department,Gunshot,No,8776,67,1.5,19.7,44430,84743,58025,1.4604567,5,5,7.3
+Scott Dunham,57,Male,White,March,24,2015,2600 Senter Rd,San Jose,CA,San Jose Police Department,Gunshot,Firearm,4026,8.5,0,27.3,17467,41767,91702,0.455464439,1,2,17.1
+Scott McAllister,39,Male,Unknown,May,27,2015,33 Bayside Pkwy,Middletown,NJ,Monmouth County Emergency Response Team,Gunshot,Non-lethal firearm,5447,86.7,0.8,9.2,34053,77813,84526,0.92058065,NA,5,5.3
+Sean Pelletier,38,Male,White,May,14,2015,6095 Anna s Ln,Portage,MI,"Michigan State Police, Kalamazoo County Sheriff s Office and Portage Police Department",Gunshot,Firearm,5543,81.1,8.6,2.7,33110,74347,45775,1.624183506,5,4,7.1
+Sergio Navas,34,Male,Hispanic/Latino,March,5,2015,N Pass Ave and W National Ave,Burbank,CA,Los Angeles Police Department,Gunshot,Firearm,7914,58.6,2.8,19.2,44585,83325,55909,1.490368277,5,5,6.8
+Shane Watkins,39,Male,White,March,19,2015,1040 County Rd 249,Moulton,AL,Lawrence County Sheriff s Office,Gunshot,Other,5791,86.3,2.1,0,19149,38078,38551,0.987730539,3,2,17
+Shaquille Barrow,20,Male,Black,March,2,2015,Richards St,Joliet,IL,Joliet Police Department,Gunshot,Firearm,3362,14.3,38.8,44.9,16065,25093,76147,0.329533665,1,1,37.5
+Shaun Johnson,35,Male,White,May,8,2015,59705 E Bidegain Pl,Kearny,AZ,Pinal County Sheriff s Office,Gunshot,No,2747,54.5,0,42.3,24352,49097,50027,0.981410039,3,3,19.5
+Shawn Clyde,36,Male,White,April,1,2015,110 Nottinghill Ln,Hamilton Township,NJ,Hamilton Police Department,Gunshot,Firearm,7010,65.8,11.3,21.1,29056,51355,73480,0.698897659,2,3,15.2
+Sheldon Haleck,38,Male,Asian/Pacific Islander,March,16,2015,364 S King St,Honolulu,HI,Honolulu Police Department,Taser,No,403,26.1,13.4,2,21509,25323,72764,0.348015502,1,1,20.1
+Simon Hubble,33,Male,White,May,27,2015,3600 Emmanuel Way,Alpine,CA,San Diego County Sheriff s Department,Gunshot,Firearm,7371,49.5,10.9,36.1,20164,71929,62962,1.142419237,4,4,19.2
+Sinthanouxay Khottavongsa,57,Male,Asian/Pacific Islander,January,16,2015,5900 Xerxes Ave N,Minneapolis,MN,Brooklyn Center Police Department,Taser,Firearm,3081,37.8,28.2,8.9,26143,38958,64403,0.604909709,1,2,23
+Stanley Grant,38,Male,Black,February,20,2015,2200 Green Springs Hwy,Birmingham,AL,Homewood Police Department,Gunshot,Firearm,3681,44.4,22.4,28.9,21908,35780,45429,0.787602633,2,2,23.2
+Stanley Watson,72,Male,White,April,15,2015,3120 East Main St,Caí_±on City,CO,Caí_±on City Police Department,Gunshot,Firearm,2868,66.6,8,21,19044,41571,39943,1.04075808,3,2,16.8
+Stephanie Hill,37,Female,White,February,28,2015,I-10,La Paz County,AZ,Riverside County Sheriff s Department,Gunshot,No,1548,45.5,3.1,40.8,15686,27552,45841,0.601034009,1,1,31.2
+Stephen Cunningham,47,Male,White,May,11,2015,3420 S Proctor St,Tacoma,WA,Tacoma Police Department,Gunshot,Knife,2758,58,11.3,15.6,21658,36642,59204,0.618910884,1,2,24.5
+Steven Davenport,43,Male,White,April,21,2015,Old Hwy 19 SE,Meridian,MS,Lauderdale County Sheriff s Office,Taser,No,7590,77.3,16.9,2.9,20685,44247,36203,1.222191531,4,2,11
+Steven Snyder,37,Male,White,March,24,2015,760 W Johnson St,Fond du Lac,WI,Wisconsin State Police,Gunshot,Firearm,6145,71.5,2.6,18.7,20423,34339,53820,0.638034188,1,1,26.6
+Talbot Schroeder,75,Male,White,January,14,2015,40 Cedar Grove Pl,Old Bridge Township,NJ,Old Bridge Police Department,Gunshot,Knife,1753,42.2,20.6,24.9,29741,75050,79596,0.942886577,2,5,14.3
+Terence Walker,21,Male,Black,January,17,2015,Old Agency Baptist Church,Muskogee,OK,Muskogee Police Department,Gunshot,Firearm,1925,36.9,43.4,1.5,15252,17025,38502,0.442184822,1,1,51.8
+Terrance Kellom,20,Male,Black,April,27,2015,9500 Evergreen Rd,Detroit,MI,Immigration and Customs Enforcement,Gunshot,Firearm,3501,5.7,92.4,1.3,12961,21468,41184,0.521270396,1,1,53.8
+Terrance Moxley,29,Male,Black,March,10,2015,280 N Main St,Mansfield,OH,Mansfield Police Department,Taser,Firearm,2326,49.4,40,4.7,11576,19732,41835,0.471662484,1,1,40.3
+Terry Garnett Jr,37,Male,Black,March,11,2015,Augustine Herman Hwy & E Lewis Shore Rd,Elkton,MD,Cecil County Sheriff s Office,Gunshot,Knife,3737,77.4,14.6,7.6,31524,53941,66689,0.808844037,1,3,4.5
+Terry Price,41,Male,Black,February,21,2015,951 West 36th St N,Tulsa,OK,Osage Nation Police Department,Taser,Firearm,3630,68.7,5.5,5.6,26566,47350,44195,1.071388166,4,3,7.5
+Tevin Barkley,22,Male,Black,April,15,2015,800 NW 75th St,Miami,FL,Miami-Dade Police Department,Gunshot,Knife,5246,1.8,79.2,20.8,16745,26082,43100,0.605150812,1,1,42.5
+Thaddeus McCarroll,23,Male,Black,April,17,2015,9200 Riverwood Dr,Jennings,MO,St Louis County Police Department,Gunshot,Knife,7671,7.5,92.5,0,18371,27409,58910,0.465269054,1,1,25.1
+Theodore Johnson,64,Male,Black,March,10,2015,6902 Ottawa Rd,Cleveland,OH,Cleveland Division of Police,Gunshot,No,1548,49.8,43.7,3.5,15871,21378,43804,0.488037622,1,1,39.8
+Thomas Allen Jr,34,Male,Black,March,1,2015,Morton Ave and Chatham Ave,St Louis,MO,Wellston Police Department,Gunshot,Firearm,2150,1,98.6,0.2,11656,20844,58910,0.353827873,1,1,50.8
+Thomas Hamby,49,Male,White,January,8,2015,2964 W 2125 S,Syracuse,UT,"Syracuse Police Department, Davis County Sheriff s Office",Gunshot,Firearm,11719,89.4,2.2,7.5,36216,81064,69707,1.162924814,4,5,4.4
+Thong Kien Ma,32,Male,Asian/Pacific Islander,May,5,2015,10400 Enloe St,South El Monte,CA,Los Angeles County Sheriff s Department,Gunshot,Knife,3416,5.7,0,80.8,17367,57500,55909,1.028456957,3,4,13.8
+Tiano Meton,25,Male,Black,January,22,2015,I-10,Sierra Blanca,TX,US Border Patrol,Gunshot,Other,3394,19.9,0.6,79,14989,22545,22545,1,NA,1,44.1
+Tiffany Terry,39,Female,White,January,30,2015,1702 S 50th St,Omaha,NE,Omaha Police Department,Gunshot,Firearm,2646,88,2.6,4,36394,66786,53325,1.252433193,4,4,5.5
+Tim Elliott,53,Male,Unknown,January,2,2015,600 E Island Lake Dr,Shelton,WA,Mason County Sheriff s Office,Gunshot,Non-lethal firearm,4347,68.7,5.3,18.1,18999,39495,48755,0.810070762,1,2,18.4
+Timothy Jones,27,Male,White,May,17,2015,111 Otero Dr,Ruidoso,NM,Ruidoso Police Department,Gunshot,Firearm,6462,72.1,0.9,19.5,26934,48198,43014,1.120518901,5,3,8.4
+Todd Allen Hodge,36,Male,White,January,21,2015,40200 Clark Dr,Hemet,CA,Riverside County Sheriff s Department,Gunshot,Firearm,2886,48.3,8.1,38.4,17632,32708,56529,0.578605671,1,1,32
+Todd Jamal Dye,20,Male,Black,April,24,2015,1505 E Main St,Trinidad,CO,Trinidad Police Department,Gunshot,Firearm,2024,41.3,0.6,55.3,15498,25688,42261,0.607841745,1,1,26.6
+Tommy Smith,39,Male,White,January,12,2015,224 Circle Dr,Arcola,IL,Tuscola Police Department,Gunshot,Firearm,3565,78.5,0.4,20.9,27719,51518,52741,0.976811209,2,3,14
+Tony Robinson,19,Male,Black,March,6,2015,1125 Williamson St,Madison,WI,Madison Police Department,Gunshot,Firearm,6145,90.7,1.3,5.5,35028,53089,61721,0.860144845,2,3,13.3
+Tony Ross,34,Male,White,March,6,2015,Lamar St and Whitworth St,Sulphur Springs,TX,Sulphur Springs Police Department,Taser,Knife,4177,56.9,28.6,8.5,19921,42282,43657,0.968504478,2,2,24.3
+Troy Boyd,36,Male,White,March,15,2015,McEwien Swamp Rd,Ruth,MS,Pike County Sheriff s Office,Gunshot,Firearm,4980,72.2,25.9,0.3,22213,46740,34841,1.341522918,5,3,15.5
+Tyrel Vick,34,Male,White,March,20,2015,Oklahoma Hwy 48 and E1750 Rd,Wapanucka,OK,Oklahoma Highway Patrol and Tupelo Police Department,Gunshot,Firearm,2032,72.5,0,1.1,25110,40000,34867,1.147216566,NA,2,20.7
+Tyrell Larsen,31,Male,White,April,6,2015,E 100 N,Rigby,ID,Jefferson County Sheriff Department,Gunshot,No,10818,89.5,0,8.4,27347,57256,52023,1.100590124,NA,4,9.6
+Tyrone Ryerson,45,Male,Black,March,5,2015,468 E Plainfield Ave,Milwaukee,WI,Milwaukee Police Department,Gunshot,Non-lethal firearm,2657,77.5,3.1,15,35316,63444,43193,1.468849119,5,4,11
+Tyson Hubbard,34,Male,White,March,5,2015,27th St and Fletcher Ave,Lincoln,NE,US Marshals Service,Gunshot,Unknown,5459,74.8,8.8,4.2,26597,40404,51574,0.783418001,2,2,19.9
+Unknown,Unknown,Male,Unknown,January,16,2015,Co Rd 2718,Mabank,TX,Texas Rangers/ ATF,Gunshot,Other,6852,87.2,1.8,10.4,22969,50280,43439,1.157485209,5,3,17.9
+Unknown,Unknown,Female,Unknown,May,25,2015,6505 Shirley Ave,Austin,TX,Austin Police Department,Gunshot,Knife,6852,87.2,1.8,10.4,22969,50280,43439,1.157485209,5,3,17.9
+Unknown,Unknown,Male,White,June,1,2015,271 Greece Ridge Center Dr,Rochester,NY,"New York State Police, Monroe County Sheriff s Department and Gates Police Department",Gunshot,Firearm,6852,87.2,1.8,10.4,22969,50280,43439,1.157485209,5,3,17.9
+Victor Reyes,31,Male,Hispanic/Latino,January,31,2015,West Little York Rd,Houston,TX,Houston County Sheriff s Department,Gunshot,No,5065,25,31.9,40.1,29695,41265,53137,0.776577526,2,2,12.5
+Victor Terrazas,28,Male,Hispanic/Latino,March,25,2015,10200 S Vermont Ave,Los Angeles,CA,Los Angeles County Sheriff s Department,Gunshot,Firearm,3862,0.3,37,60.3,16940,26250,55909,0.469512959,1,1,33.7
+Vincent Cordaro,57,Male,White,February,9,2015,N Little Tor Rd,New City,NY,Clarkstown Police Department,Gunshot,Firearm,4164,78.5,6.5,4.8,52896,142500,84951,1.677437582,5,5,1.9
+Walter Brown III,29,Male,Black,March,24,2015,19 Colin Drive S,Portsmouth,VA,Portsmouth Police Department,Gunshot,Other,4996,87.4,10,0,27535,51480,46166,1.115106355,3,3,6.6
+Walter Scott,50,Male,Black,April,4,2015,1945 Remount Rd,North Charleston,SC,North Charleston Police Department,Gunshot,Knife,4110,15.8,65.2,18.6,14963,19988,50792,0.39352654,1,1,44.1
+Wendell King,40,Male,White,January,29,2015,4800 Hildring Dr E,Forth Worth,TX,Fort Worth Police Department,Gunshot,Unknown,4074,89.2,0.9,6,54494,102938,56853,1.810599265,5,5,11.2
+Wilber Castillo-Gongora,35,Male,Hispanic/Latino,February,5,2015,US-287,Electra,TX,Wichita County Sheriff s Office,Taser,Unknown,3507,94.8,0,2.5,31761,62817,45086,1.393270638,5,4,4
+William  Rusty  Smith,53,Male,White,March,10,2015,700 Valley St,Hoover,AL,Hoover Police Department,Gunshot,No,4547,84.7,1.4,7.7,42312,81996,45429,1.804926369,5,5,3
+William Campbell,59,Male,Unknown,January,25,2015,335 New Brooklyn Rd,Berlin,NJ,Winslow Police Department,Gunshot,Non-lethal firearm,5065,64.3,16.9,4.9,31470,65759,61683,1.066079795,3,4,7.3
+William Chapman II,18,Male,Black,April,22,2015,1098 Frederick Blvd,Portsmouth,VA,Portsmouth Police Department,Gunshot,No,1640,40.9,53.8,0,25262,27418,46166,0.593900273,1,1,35.2
+William Dick III,28,Male,Native American,April,4,2015,Bureau of Indian Affairs Rd 66,Tonasket,WA,US Forest Service,Taser,Firearm,4154,74.5,0.4,20.2,18470,35608,40368,0.88208482,1,2,27.3
+William Poole,52,Male,White,March,16,2015,130 Wedowee Ln,Gaston,NC,Gaston County Police Department,Gunshot,Firearm,3850,83.2,10.1,0.3,21175,38200,42017,0.909155818,2,2,28.5
+Yuvette Henderson,38,Female,Black,February,3,2015,3800 Hollis St,Oakland,CA,Emeryville Police Department,Gunshot,Firearm,2544,21.7,24.9,37.1,26971,63052,72112,0.874362103,2,4,23.9
+Zaki Shinwary,48,Male,Unknown,January,16,2015,Lake Arrowhead Ave and Great Salt Lake Dr,Fremont,CA,Fremont Police Department,Gunshot,Firearm,5177,23.1,4,12.3,33590,88940,72112,1.233359219,4,5,6.1
